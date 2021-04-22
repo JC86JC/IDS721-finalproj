@@ -8,9 +8,13 @@ test = pd.read_csv("test.csv")
 # preprocess
 X_train = train.drop(['id','price'],axis = 1)
 y_train = train[['price']]
-X_test = test.drop(['id'],axis = 1)
+X_test = test.drop(['id', 'price'],axis = 1)
 x_train1, x_test1 = preprocess(X_train,X_test)
-y = train['price'].to_numpy().ravel()
+y_train = train['price'].to_numpy().ravel()
+y_test = test['price'].to_numpy().ravel()
+
+#fit model
+clf = model(x_train1,y_train)
 
 app = Flask(__name__)
 

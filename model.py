@@ -83,5 +83,5 @@ def model(x,y):
     xb = xgb.XGBClassifier(objective="multi:softprob", max_depth = 50, 
                        n_estimators = 100)
     eclf = VotingClassifier(estimators=[('rf', rf), ('adab', ab), ('xgb', xb)], voting='hard')
-    eclf.fit(x_train1,y)
+    eclf.fit(x,y)
     return eclf
