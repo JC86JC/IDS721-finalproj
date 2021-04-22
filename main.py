@@ -32,7 +32,7 @@ def report(clf, x_test, y_test):
     
     cm = confusion_matrix(y_test, y_hat)
     acc = clf.score(x_test, y_test)
-    print('confusion matrix', cm, '\n', 'prediction accuracy', acc)
+    print('confusion matrix:', '\n', cm, '\n', '='*80,  'prediction accuracy', acc)
 
 
 
