@@ -1,18 +1,15 @@
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier, VotingClassifier
 from sklearn.preprocessing import OrdinalEncoder, Normalizer, MinMaxScaler, StandardScaler, OneHotEncoder
 from sklearn.model_selection import cross_validate, GridSearchCV, cross_val_score
 from sklearn.metrics import accuracy_score,make_scorer
-import seaborn as sns
 from sklearn.neural_network import MLPClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.linear_model import LogisticRegression
 import xgboost as xgb
 from sklearn.naive_bayes import GaussianNB
 from sklearn.svm import SVC
-import seaborn as sns
 
 
 

@@ -22,7 +22,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    html = f"<h3>Housing Price Prediction Home</h3>"
+    html = "<h3>Housing Price Prediction Home</h3>"
     return html.format(format)
 
 @app.route("/report")
@@ -34,6 +34,14 @@ def report(clf, x_test, y_test):
     acc = clf.score(x_test, y_test)
     print('confusion matrix:', '\n', cm, '\n', '='*80,  'prediction accuracy', acc)
 
+@app.route('/html')
+def html():
+    """Returns some custom HTML"""
+    return """
+    <title>This is a Hello World World Page</title>
+    <p>Hello</p>
+    <p><b>World</b></p>
+    """
 
 
 if __name__ == '__main__':
