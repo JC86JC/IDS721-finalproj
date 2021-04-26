@@ -26,7 +26,7 @@ def home():
     html = "<h3>Housing Price Prediction Home</h3>"
     return html.format(format)
 
-@app.route("/report", methods=['POST'])
+@app.route("/report")
 def report():
     '''Print prediction metric on test.csv'''
     y_hat = clf.predict(x_test1)
