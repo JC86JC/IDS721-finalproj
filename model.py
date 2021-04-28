@@ -10,7 +10,7 @@ from sklearn.linear_model import LogisticRegression
 import xgboost as xgb
 from sklearn.naive_bayes import GaussianNB
 from sklearn.svm import SVC
-
+import pickle
 
 
 def date_to_duration(df):
@@ -82,3 +82,26 @@ def model(x,y):
     eclf = VotingClassifier(estimators=[('rf', rf), ('adab', ab), ('xgb', xb)], voting='hard')
     eclf.fit(x,y)
     return eclf
+
+# model fitting
+# load data
+train = pd.read_csv("train.csv")
+test = pd.read_csv("test.csv")
+
+
+
+# preprocess
+X_train = train.drop(['id','price'],axis = 1)
+y_train = train[['price']]
+X_test = test.drop(['id', 'price'],axis = 1)
+x_train1, x_test1 = preprocess(X_train,X_test)
+y_train = train['price'].to_numpy().ravel()
+y_test = test['price'].to_numpy().ravel()
+
+
+# save processed test data
+x_test1.to_csv('processed_test.csv',index=False)
+
+#fit and save the fitted model
+clf = model(x_train1,y_train)
+pickle.dump(clf, open('model.pkl','wb'))
