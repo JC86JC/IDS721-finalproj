@@ -19,8 +19,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    html = "<h3>Housing Price Prediction Home</h3>"
-    return html.format(format)
+    return render_template('index.html')
 
 @app.route("/report")
 def report():
@@ -32,6 +31,10 @@ def report():
     #acc = clf.score(x_test, y_test)
     #print('confusion matrix:', '\n', cm, '\n', '='*80,  'prediction accuracy', acc)
     return cm.to_html(header="true", table_id="Confusion_matrix")
+
+@app.route("/fancyreport")
+def fancyreport():
+    return render_template('report.html')
 
 @app.route('/html')
 def html():
