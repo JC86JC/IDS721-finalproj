@@ -1,6 +1,7 @@
 from flask import Flask, request, render_template, session, redirect
 from sklearn.metrics import confusion_matrix
 import pandas as pd
+import pickle
 
 # load data
 test = pd.read_csv("test.csv")
