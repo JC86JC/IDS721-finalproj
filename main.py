@@ -1,5 +1,4 @@
 from flask import Flask, request, render_template, session, redirect
-from model import *
 from sklearn.metrics import confusion_matrix
 import pandas as pd
 
