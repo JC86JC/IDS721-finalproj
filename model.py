@@ -74,12 +74,7 @@ def preprocess(X, X_test, scale = True, year_as_num = True):
 
 # model
 def model(x,y):
-    rf = RandomForestClassifier(criterion = 'gini', max_depth = 75)
-    ab = AdaBoostClassifier(DecisionTreeClassifier(max_depth=2),algorithm = 'SAMME.R',
-                        learning_rate = 0.1, n_estimators = 100)
-    xb = xgb.XGBClassifier(objective="multi:softprob", max_depth = 50, 
-                       n_estimators = 100)
-    eclf = VotingClassifier(estimators=[('rf', rf), ('adab', ab), ('xgb', xb)], voting='hard')
+    eclf = RandomForestClassifier(criterion = 'gini', max_depth = 75)
     eclf.fit(x,y)
     return eclf
 
