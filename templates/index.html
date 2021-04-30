@@ -28,9 +28,9 @@
         <section class="py-5">
             <div class="container">
                 <h1>Airbnb Housing Price Predict</h1>
-                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, suscipit, rerum quos facilis repellat architecto commodi officia atque nemo facere eum non illo voluptatem quae delectus odit vel itaque amet.</p>
-                <a class="btn btn-primary btn-lg" href="{{ url_for('report')}}">Make A Prediction!</a>
+                <p>Airbnb is one of the biggest vacation rental online marketplace company in United States. When renting for a house/apartment, people usually care a lot about the price.  In this project, our group tried to predict the price level of Airbnb houses using random forest, and then display the test result in a flask app.</p>
+                <p>We got our dataset from this <a href = "https://www.kaggle.com/c/duke-cs671-fall20-airbnb-pricing-data">Kaggle competition</a>. This dataset contains the Airbnb housing information and price levels in Buenos Aires. There are 9681 observations in total. We trained a random forest model on a training set with 6502 rows, and test the model on the remaining observations. The evaluation metric we used is a confusion matrix. You can view the performance by pressing the button below.</p>
+                <a class="btn btn-primary btn-lg" href="{{ url_for('report')}}">Test Model!</a>
             </div>
         </section>
        
