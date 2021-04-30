@@ -1,301 +1,301 @@
-,id,neighbourhood,room_type,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,host_since,host_is_superhost,bathrooms,bedrooms,beds,bed_type,cleaning_fee,guests_included,extra_people,maximum_nights,instant_bookable,is_business_travel_ready,cancellation_policy,require_guest_profile_picture,require_guest_phone_verification,price
-6500,9067,Belgrano,Entire home/apt,30,1,3/13/2020,0.29,2,359,11/29/2012,f,2,3,3,Real Bed,3073,1,0,1125,f,f,moderate,f,f,3
-6501,1961,Puerto Madero,Entire home/apt,2,107,2/9/2020,1.81,2,360,2/24/2014,f,1.5,1,2,Real Bed,4198,1,0,1125,f,f,strict_14_with_grace_period,f,f,4
-6502,5853,Recoleta,Entire home/apt,2,45,11/10/2019,1.7,10,90,12/8/2015,f,1,1,2,Real Bed,1395,1,0,60,t,f,moderate,f,f,1
-6503,10066,Belgrano,Entire home/apt,2,13,3/10/2020,1.16,2,360,1/19/2017,t,1,1,1,Real Bed,770,1,0,120,f,f,strict_14_with_grace_period,f,f,2
-6504,790,Palermo,Entire home/apt,1,48,3/3/2020,0.62,1,361,9/30/2013,f,1,1,1,Real Bed,2802,1,0,1125,t,f,flexible,f,f,2
-6505,4030,N??ez,Entire home/apt,3,39,12/23/2019,1.09,20,85,4/2/2014,f,1,1,1,Real Bed,2799,1,0,1125,f,f,flexible,f,f,3
-6506,12073,Palermo,Entire home/apt,3,1,3/8/2020,0.28,10,359,3/27/2019,f,1,1,1,Real Bed,2095,1,0,180,t,f,flexible,f,f,2
-6507,6116,Almagro,Entire home/apt,3,15,2/19/2020,0.59,1,1,7/1/2014,f,1,1,2,Real Bed,1744,4,697,31,t,f,strict_14_with_grace_period,f,f,1
-6508,4507,Palermo,Entire home/apt,25,16,3/3/2020,0.54,1,56,12/11/2016,t,1,1,3,Real Bed,1000,2,0,365,f,f,flexible,f,f,1
-6509,8173,Liniers,Entire home/apt,7,2,6/5/2019,0.11,1,359,11/24/2018,f,1,1,2,Real Bed,0,1,790,30,t,f,moderate,f,f,2
-6510,10768,Palermo,Entire home/apt,2,29,5/16/2020,2.55,33,362,12/26/2013,f,1,0,1,Real Bed,1402,1,0,16,t,f,strict_14_with_grace_period,f,f,2
-6511,13241,San Crist?bal,Entire home/apt,3,1,1/22/2020,0.19,1,358,1/26/2017,f,1,2,2,Real Bed,2099,2,350,1125,f,f,flexible,f,f,3
-6512,12178,Palermo,Entire home/apt,3,9,3/17/2020,1.27,7,179,9/25/2012,f,1,2,3,Real Bed,600,1,0,30,f,f,flexible,f,f,3
-6513,12093,Recoleta,Entire home/apt,1,21,3/15/2020,2.46,5,86,8/28/2019,t,1,0,2,Real Bed,1051,1,0,90,f,f,strict_14_with_grace_period,f,f,3
-6514,12281,Palermo,Entire home/apt,3,8,3/13/2020,1.03,2,0,8/4/2016,f,1.5,2,2,Real Bed,1534,1,0,64,t,f,flexible,f,f,2
-6515,1595,Palermo,Entire home/apt,4,35,2/29/2020,0.82,1,77,1/17/2015,t,1,3,3,Real Bed,697,3,0,180,f,f,flexible,f,f,2
-6516,1731,Recoleta,Entire home/apt,3,85,1/19/2020,1.35,8,350,2/10/2014,f,3.5,5,10,Real Bed,8369,11,2092,1125,f,f,strict_14_with_grace_period,f,f,4
-6517,6119,Recoleta,Entire home/apt,30,1,6/20/2018,0.04,4,0,5/11/2018,f,1,1,4,Real Bed,0,1,0,90,f,f,strict_14_with_grace_period,f,f,2
-6518,6208,Palermo,Private room,1,26,6/9/2020,1.18,1,113,3/1/2018,t,1,1,1,Real Bed,771,1,491,1125,f,f,moderate,f,f,1
-6519,12978,Recoleta,Entire home/apt,14,3,2/25/2020,0.51,18,84,11/3/2015,f,1,2,3,Real Bed,1536,2,419,365,t,f,moderate,f,f,4
-6520,3461,Palermo,Entire home/apt,4,2,11/23/2016,0.05,1,0,10/7/2016,f,1,1,1,Real Bed,750,1,250,1125,f,f,flexible,f,f,1
-6521,11942,Villa Crespo,Entire home/apt,1,9,4/11/2020,1.31,3,358,10/13/2017,t,1,0,0,Real Bed,400,1,0,1125,t,f,flexible,f,f,2
-6522,11021,Palermo,Entire home/apt,30,17,4/17/2020,1.95,1,33,2/13/2015,t,1,1,1,Real Bed,2802,2,0,180,f,f,strict_14_with_grace_period,f,f,3
-6523,13401,Palermo,Entire home/apt,14,2,3/11/2020,0.52,1,264,1/15/2020,f,1,1,1,Real Bed,698,1,0,1125,t,f,strict_14_with_grace_period,f,f,1
-6524,361,Palermo,Entire home/apt,5,6,4/10/2020,0.37,2,266,9/19/2012,t,1,1,2,Real Bed,1051,1,350,730,f,f,moderate,f,f,3
-6525,6902,Palermo,Entire home/apt,1,10,2/24/2020,0.47,1,360,6/11/2013,f,1,1,1,Real Bed,2099,1,0,1125,f,f,strict_14_with_grace_period,f,f,3
-6526,3843,Palermo,Entire home/apt,7,52,12/25/2019,1.27,12,206,4/28/2015,f,2,1,3,Real Bed,1751,3,0,1125,t,f,moderate,f,f,1
-6527,5967,Colegiales,Private room,7,20,5/31/2020,0.82,1,359,4/9/2018,t,1,1,1,Real Bed,2799,1,0,90,f,f,flexible,f,f,1
-6528,762,Almagro,Entire home/apt,15,6,3/27/2019,0.08,2,175,9/6/2013,t,1,0,2,Real Bed,0,1,0,365,t,f,strict_14_with_grace_period,f,f,1
-6529,13423,Recoleta,Entire home/apt,7,1,3/4/2020,0.27,2,174,12/17/2013,f,1,1,2,Real Bed,2000,1,0,90,f,f,moderate,f,f,2
-6530,7923,Palermo,Entire home/apt,2,74,3/17/2020,3.82,2,255,1/31/2015,t,1.5,3,3,Real Bed,1051,1,0,20,f,f,moderate,f,f,4
-6531,10868,Palermo,Entire home/apt,1,4,8/25/2019,0.36,3,0,12/18/2014,f,1,1,1,Real Bed,697,1,0,26,t,f,flexible,f,f,4
-6532,8785,Palermo,Entire home/apt,2,38,3/7/2020,2.28,2,257,1/10/2012,t,2,4,7,Real Bed,2790,8,0,365,t,f,strict_14_with_grace_period,f,t,4
-6533,13580,Palermo,Entire home/apt,3,5,6/4/2020,1.52,9,337,10/26/2016,t,1,1,1,Real Bed,1046,1,0,1125,t,f,flexible,f,f,2
-6534,9152,San Nicol?s,Entire home/apt,2,5,4/24/2019,0.31,1,194,1/23/2015,f,1,1,3,Real Bed,697,1,0,1125,t,f,moderate,f,f,2
-6535,8928,Recoleta,Entire home/apt,2,5,2/23/2020,0.33,3,365,11/13/2018,f,1,1,1,Real Bed,1395,1,0,1125,t,f,moderate,f,f,2
-6536,3752,Recoleta,Entire home/apt,6,1,3/19/2017,0.03,1,89,12/31/2016,f,2,2,2,Real Bed,2441,1,0,1125,f,f,flexible,f,f,4
-6537,5401,Monserrat,Entire home/apt,3,8,3/30/2019,0.29,2,199,11/1/2016,f,1,1,3,Real Bed,488,1,0,1125,f,f,moderate,f,f,2
-6538,5900,Balvanera,Entire home/apt,1,8,8/25/2018,0.3,4,359,10/2/2017,t,1,0,3,Real Bed,1397,1,0,1125,t,f,moderate,f,f,3
-6539,6105,Belgrano,Entire home/apt,7,46,3/2/2020,1.8,1,359,5/9/2018,f,1,0,2,Real Bed,1500,3,0,900,f,f,strict_14_with_grace_period,f,f,1
-6540,6951,San Telmo,Entire home/apt,15,47,3/11/2020,2.13,1,165,3/2/2015,t,1,1,1,Real Bed,1259,1,0,1125,f,f,flexible,f,f,3
-6541,5297,Monserrat,Entire home/apt,4,23,2/25/2020,0.78,2,94,1/3/2018,t,1,1,2,Real Bed,650,1,0,90,f,f,strict_14_with_grace_period,f,f,1
-6542,620,Palermo,Entire home/apt,7,71,2/24/2020,0.88,1,89,5/15/2013,f,1,1,1,Real Bed,2092,1,0,90,f,f,moderate,t,f,3
-6543,11841,Palermo,Entire home/apt,2,1,11/30/2019,0.14,27,359,9/14/2015,f,0.5,1,2,Real Bed,600,1,0,1125,f,f,strict_14_with_grace_period,f,f,2
-6544,13659,Recoleta,Entire home/apt,3,1,4/20/2020,0.47,2,364,12/11/2016,f,1,0,2,Real Bed,1255,1,0,1125,f,f,flexible,f,f,3
-6545,3405,Palermo,Entire home/apt,3,2,7/29/2018,0.09,1,173,9/9/2011,f,1.5,2,1,Real Bed,838,3,0,15,f,f,moderate,f,f,3
-6546,6971,Recoleta,Entire home/apt,4,22,12/16/2019,1.04,7,320,7/15/2013,t,2,2,3,Real Bed,2790,1,0,720,f,f,moderate,f,f,4
-6547,4130,Palermo,Entire home/apt,3,15,2/1/2020,0.42,4,19,3/18/2015,f,1,1,1,Real Bed,1500,1,0,1125,f,f,strict_14_with_grace_period,f,f,1
-6548,4118,Palermo,Entire home/apt,30,4,3/14/2020,0.69,1,351,11/16/2014,f,1.5,1,1,Real Bed,2500,1,0,1125,f,f,strict_14_with_grace_period,f,f,1
-6549,11499,N??ez,Entire home/apt,15,6,1/26/2020,0.61,1,217,6/19/2015,f,1.5,1,1,Real Bed,700,1,0,1125,t,f,flexible,f,f,4
-6550,6937,San Nicol?s,Entire home/apt,2,5,11/1/2019,0.49,1,180,4/30/2018,f,1.5,1,2,Real Bed,250,1,0,15,t,f,flexible,f,f,2
-6551,6290,Almagro,Entire home/apt,2,10,3/30/2020,0.45,2,358,2/10/2014,t,1,1,2,Real Bed,2099,2,0,180,t,f,strict_14_with_grace_period,f,f,2
-6552,10496,San Telmo,Private room,30,13,3/5/2020,1.08,7,53,3/31/2015,f,3,1,1,Real Bed,489,1,0,150,f,f,flexible,f,f,1
-6553,799,Recoleta,Entire home/apt,14,30,12/30/2018,0.37,3,179,10/19/2011,f,1,0,2,Real Bed,1744,2,1255,365,f,f,moderate,f,f,3
-6554,2741,Balvanera,Entire home/apt,30,6,3/31/2018,0.12,4,359,11/12/2012,t,1,1,1,Real Bed,1048,1,0,720,f,f,strict_14_with_grace_period,f,f,3
-6555,1385,Monserrat,Entire home/apt,2,9,3/17/2019,0.14,2,359,1/21/2014,f,1,0,2,Real Bed,2095,1,0,1125,t,f,strict_14_with_grace_period,f,f,2
-6556,6648,Chacarita,Entire home/apt,3,2,1/13/2019,0.1,1,359,9/19/2016,f,1,1,1,Real Bed,698,1,0,1125,t,f,flexible,f,f,4
-6557,7235,Recoleta,Entire home/apt,3,20,10/31/2019,0.96,19,294,9/3/2014,t,1,1,2,Real Bed,2790,2,349,1125,t,f,strict_14_with_grace_period,f,f,4
-6558,10857,Palermo,Entire home/apt,2,2,11/11/2019,0.2,4,316,10/29/2017,t,2,2,3,Real Bed,3487,2,0,1125,f,f,flexible,f,f,4
-6559,818,Recoleta,Entire home/apt,4,2,7/28/2016,0.02,35,364,3/24/2013,t,1,1,1,Real Bed,2790,1,0,1125,f,f,strict_14_with_grace_period,f,f,3
-6560,10065,Palermo,Entire home/apt,4,29,3/15/2020,2.18,1,89,5/7/2011,t,1,1,1,Real Bed,558,1,0,90,f,f,flexible,f,f,3
-6561,5676,Palermo,Entire home/apt,3,20,12/27/2019,0.77,1,0,3/4/2018,t,1,1,1,Real Bed,1870,1,272,31,f,f,moderate,f,f,2
-6562,11925,Constituci?n,Entire home/apt,5,24,3/25/2020,2.72,1,297,9/19/2019,t,1,1,2,Real Bed,1329,1,0,90,f,f,moderate,f,f,2
-6563,8443,Retiro,Entire home/apt,3,1,2/16/2019,0.06,1,295,11/27/2018,f,1,1,1,Real Bed,908,1,0,360,f,f,moderate,f,f,2
-6564,1325,Colegiales,Private room,30,4,3/27/2018,0.1,3,0,11/8/2012,f,2.5,1,2,Real Bed,0,1,350,360,f,f,moderate,f,f,2
-6565,12525,Recoleta,Entire home/apt,7,3,2/25/2020,0.47,2,365,8/17/2016,t,1,1,2,Real Bed,1395,1,0,1125,t,f,flexible,f,f,3
-6566,9155,San Nicol?s,Entire home/apt,2,2,7/9/2019,0.14,32,86,12/6/2017,f,1,2,4,Real Bed,1402,1,0,1125,t,f,flexible,f,f,4
-6567,11812,Palermo,Private room,1,11,3/15/2020,1.18,2,268,1/17/2019,t,1.5,1,1,Real Bed,300,1,0,30,t,f,flexible,f,f,1
-6568,13207,Palermo,Entire home/apt,5,3,3/7/2020,0.66,1,0,12/30/2019,f,1,1,1,Real Bed,558,2,0,90,f,f,strict_14_with_grace_period,f,f,2
-6569,12553,Palermo,Entire home/apt,7,3,5/7/2020,0.42,1,364,8/3/2017,t,1,1,2,Real Bed,1744,2,697,1125,t,f,strict_14_with_grace_period,f,f,3
-6570,12597,Palermo,Entire home/apt,1,19,3/26/2020,2.6,1,88,11/12/2019,t,1,0,1,Real Bed,1046,1,0,1125,t,f,moderate,f,f,2
-6571,12454,Recoleta,Entire home/apt,1,16,1/8/2020,2.13,1,174,10/4/2017,t,1,1,2,Real Bed,1955,2,559,92,t,f,moderate,f,f,2
-6572,9657,Palermo,Entire home/apt,2,22,3/20/2020,1.5,24,359,1/13/2014,t,1.5,1,1,Real Bed,1257,2,0,180,t,f,flexible,f,f,3
-6573,13586,Almagro,Entire home/apt,30,3,3/31/2020,0.76,1,10,11/15/2016,f,1,1,1,Real Bed,1046,1,0,30,f,f,flexible,f,f,1
-6574,8998,Boedo,Private room,1,3,1/28/2020,0.4,3,358,3/30/2018,t,1,1,3,Real Bed,350,1,350,1125,t,f,flexible,f,f,1
-6575,12128,Belgrano,Private room,2,4,3/15/2020,0.54,2,360,10/4/2015,t,1,1,1,Real Bed,700,1,0,92,t,f,moderate,f,f,1
-6576,8637,Palermo,Entire home/apt,1,1,3/24/2019,0.07,3,365,9/30/2016,f,2,3,4,Real Bed,3487,4,1395,1125,t,f,moderate,f,f,4
-6577,5548,Palermo,Entire home/apt,5,1,3/1/2018,0.04,1,0,4/18/2014,f,1,1,1,Real Bed,600,1,0,10,t,f,flexible,f,f,4
-6578,10106,Palermo,Entire home/apt,1,10,2/24/2020,0.79,72,179,5/23/2014,f,1.5,1,3,Real Bed,1046,2,558,1125,f,f,flexible,f,f,3
-6579,10577,Recoleta,Entire home/apt,3,1,7/9/2019,0.09,1,140,6/1/2019,f,2,2,3,Real Bed,1395,1,0,1125,t,f,flexible,f,f,3
-6580,12586,San Nicol?s,Entire home/apt,3,10,3/10/2020,1.44,1,176,1/5/2016,t,1.5,2,3,Real Bed,2452,1,0,1125,t,f,moderate,f,f,4
-6581,2691,Caballito,Entire home/apt,10,8,3/29/2020,0.16,1,360,10/18/2015,f,1,1,1,Real Bed,2799,2,20991,180,f,f,moderate,f,f,4
-6582,13549,Recoleta,Entire home/apt,2,6,3/16/2020,1.42,24,362,1/13/2014,t,1,1,1,Real Bed,1262,1,0,1125,t,f,flexible,f,f,3
-6583,5250,Recoleta,Entire home/apt,8,11,3/18/2020,0.38,2,178,9/21/2010,t,1,1,1,Real Bed,1744,1,279,1125,f,f,strict_14_with_grace_period,f,f,2
-6584,349,Palermo,Entire home/apt,2,223,2/26/2020,2.4,30,247,12/15/2010,t,1.5,1,1,Real Bed,3487,2,0,180,t,f,moderate,f,f,4
-6585,4889,Villa Crespo,Entire home/apt,5,16,6/26/2018,0.5,1,0,8/8/2017,f,1,1,1,Real Bed,300,1,0,1125,t,f,flexible,f,f,1
-6586,4561,Monserrat,Private room,3,2,4/17/2018,0.06,3,359,8/2/2017,f,1,1,1,Real Bed,698,1,0,1000,t,f,flexible,f,f,1
-6587,3379,Palermo,Entire home/apt,3,2,11/20/2016,0.04,1,90,5/13/2016,f,2,2,6,Real Bed,1395,4,1325,1125,f,f,strict_14_with_grace_period,f,f,4
-6588,339,Recoleta,Entire home/apt,5,5,11/23/2018,0.12,1,361,2/23/2012,f,1,1,2,Real Bed,4204,2,3503,1125,t,f,strict_14_with_grace_period,f,f,4
-6589,979,Monserrat,Entire home/apt,7,10,4/11/2020,0.14,2,360,1/21/2014,f,1,1,4,Real Bed,2099,1,0,90,f,f,moderate,f,f,2
-6590,5459,N??ez,Entire home/apt,13,25,3/31/2020,1.37,4,315,1/29/2018,t,2,2,4,Real Bed,2099,2,630,1125,t,f,moderate,f,f,4
-6591,2820,Palermo,Entire home/apt,3,75,3/8/2020,1.47,2,344,12/28/2015,t,1,1,1,Real Bed,2336,1,0,180,t,f,strict_14_with_grace_period,f,f,3
-6592,11628,Caballito,Entire home/apt,3,12,3/14/2020,1.32,1,83,8/27/2019,t,1,1,2,Real Bed,560,1,490,15,t,f,strict_14_with_grace_period,f,f,1
-6593,11097,San Telmo,Entire home/apt,1,2,10/14/2019,0.18,1,359,7/12/2019,f,1,1,3,Real Bed,1397,2,1048,90,f,f,flexible,f,f,3
-6594,2052,Belgrano,Entire home/apt,3,39,10/3/2019,0.67,1,360,2/17/2014,f,3,4,7,Real Bed,5039,7,1344,180,t,f,strict_14_with_grace_period,f,f,4
-6595,11610,Palermo,Entire home/apt,3,24,2/25/2020,2.51,1,176,8/23/2018,f,1,2,5,Real Bed,2103,1,0,1125,f,f,flexible,f,f,2
-6596,7231,Palermo,Entire home/apt,5,25,3/14/2020,1.2,1,174,3/21/2016,t,1,1,1,Real Bed,2095,1,0,180,f,f,flexible,f,f,4
-6597,2153,Recoleta,Entire home/apt,4,9,3/18/2020,0.25,7,365,7/15/2013,t,1.5,2,2,Real Bed,1500,1,0,180,f,f,moderate,f,f,3
-6598,4354,Almagro,Entire home/apt,2,55,3/15/2020,1.53,1,186,3/18/2017,t,1,1,1,Real Bed,800,1,0,30,f,f,flexible,f,f,1
-6599,8389,Recoleta,Entire home/apt,7,2,2/3/2020,0.13,2,234,12/20/2018,t,1,1,1,Real Bed,1395,1,0,180,f,f,flexible,f,f,2
-6600,4786,Palermo,Entire home/apt,1,113,2/29/2020,3.76,3,354,4/23/2012,t,1,1,1,Real Bed,3138,1,0,1125,f,f,moderate,f,f,4
-6601,5481,Recoleta,Entire home/apt,3,20,3/3/2020,0.73,33,20,1/20/2014,t,1.5,2,0,Real Bed,3487,1,0,1125,f,f,strict_14_with_grace_period,f,f,4
-6602,3307,San Nicol?s,Entire home/apt,2,78,1/24/2020,1.73,2,172,8/28/2016,f,1.5,1,2,Real Bed,400,1,300,365,f,f,strict_14_with_grace_period,f,f,1
-6603,6753,Monte Castro,Entire home/apt,3,9,10/15/2019,0.4,1,175,8/5/2018,f,1,1,1,Real Bed,500,1,0,1125,t,f,flexible,f,f,1
-6604,6655,Retiro,Private room,30,14,6/15/2019,0.62,28,344,6/1/2018,f,1,1,2,Real Bed,837,2,0,180,t,f,flexible,f,f,2
-6605,4672,Villa Crespo,Entire home/apt,20,119,6/3/2020,3.57,6,206,10/2/2014,f,1,1,2,Real Bed,1399,1,0,1125,t,f,strict_14_with_grace_period,f,f,2
-6606,11912,San Telmo,Entire home/apt,1,15,4/8/2020,2.22,1,163,10/1/2015,t,1,2,3,Real Bed,1200,1,0,1125,f,f,moderate,f,f,3
-6607,11569,Monserrat,Entire home/apt,3,3,10/21/2019,0.33,1,364,9/30/2018,t,1,1,1,Real Bed,1046,1,0,1125,f,f,flexible,f,f,3
-6608,13465,Belgrano,Entire home/apt,3,2,6/7/2020,0.5,1,360,6/25/2013,f,3.5,3,3,Real Bed,1399,1,0,1125,t,f,strict_14_with_grace_period,f,f,4
-6609,9604,Palermo,Entire home/apt,2,52,3/21/2020,3.55,3,269,8/11/2015,t,1,0,3,Real Bed,1744,1,0,1125,t,f,flexible,f,f,3
-6610,8438,San Nicol?s,Private room,7,2,2/8/2019,0.11,11,176,12/21/2015,f,1,1,1,Real Bed,1052,1,351,1117,f,f,strict_14_with_grace_period,f,f,1
-6611,13048,San Nicol?s,Entire home/apt,2,1,3/9/2020,0.28,1,196,12/14/2015,f,1,1,2,Real Bed,0,2,350,365,t,f,moderate,f,f,1
-6612,7610,Villa Crespo,Entire home/apt,1,9,9/29/2019,0.5,72,359,5/23/2014,f,1,1,1,Real Bed,0,1,0,1125,f,f,moderate,f,f,3
-6613,1480,San Telmo,Entire home/apt,5,12,12/8/2019,0.19,12,82,12/9/2013,t,2,3,4,Real Bed,1048,3,698,1125,t,f,strict_14_with_grace_period,f,f,3
-6614,2368,Belgrano,Private room,5,10,4/8/2020,0.18,1,326,8/5/2015,t,1,1,1,Real Bed,0,1,474,999,f,f,strict_14_with_grace_period,f,f,1
-6615,10257,Belgrano,Private room,1,19,4/25/2020,1.52,2,84,12/26/2016,f,1,2,2,Real Bed,0,2,560,15,t,f,moderate,f,f,2
-6616,4798,San Nicol?s,Entire home/apt,2,38,2/29/2020,1.23,3,341,2/24/2011,t,1,1,1,Real Bed,1327,2,349,150,f,f,flexible,f,f,2
-6617,8834,Colegiales,Hotel room,1,5,2/6/2020,0.31,2,359,1/25/2019,f,1,1,2,Real Bed,698,1,0,1125,t,f,flexible,f,f,3
-6618,6702,Parque Patricios,Private room,3,1,9/12/2018,0.05,3,85,7/29/2018,f,1,1,1,Real Bed,560,1,630,8,t,f,flexible,f,f,1
-6619,165,Villa Crespo,Entire home/apt,7,1,11/17/2018,0.05,1,359,10/10/2011,f,1,0,3,Real Bed,1746,2,698,365,f,f,moderate,f,f,2
-6620,7651,Palermo,Entire home/apt,3,6,3/9/2020,0.3,7,149,2/24/2011,t,1,1,2,Real Bed,0,2,558,1125,t,f,flexible,f,f,3
-6621,9790,Palermo,Entire home/apt,3,17,2/9/2020,1.19,1,174,9/1/2014,t,2,2,3,Real Bed,3143,1,0,1125,f,f,moderate,f,f,4
-6622,8052,Retiro,Entire home/apt,2,2,1/8/2019,0.11,1,176,11/25/2018,f,1,2,2,Real Bed,2454,1,0,16,t,f,flexible,f,f,4
-6623,6735,Recoleta,Entire home/apt,3,13,2/12/2020,0.59,1,352,8/3/2018,t,1,2,3,Real Bed,4882,1,0,60,t,f,strict_14_with_grace_period,f,f,4
-6624,1686,Monserrat,Entire home/apt,30,13,3/1/2019,0.25,1,0,8/24/2012,f,1,2,2,Real Bed,731,4,0,1125,f,f,moderate,f,f,1
-6625,7776,Almagro,Shared room,1,20,10/23/2019,1.01,12,0,12/27/2013,t,2,1,1,Real Bed,500,1,0,60,t,f,flexible,f,f,1
-6626,4186,Recoleta,Entire home/apt,3,31,9/4/2019,0.83,2,171,5/3/2017,f,1,0,1,Real Bed,837,1,0,1125,t,f,moderate,f,f,2
-6627,9167,Villa Urquiza,Entire home/apt,5,6,12/15/2019,0.4,1,263,2/15/2019,f,1,1,4,Real Bed,2099,1,0,30,f,f,flexible,f,f,4
-6628,1838,Palermo,Private room,2,87,2/15/2020,2.7,4,143,5/18/2015,t,1.5,1,1,Real Bed,701,1,350,1125,t,f,moderate,f,f,2
-6629,8689,Belgrano,Entire home/apt,3,10,3/31/2020,0.67,1,265,1/5/2017,f,1,1,1,Real Bed,2099,2,700,95,t,f,strict_14_with_grace_period,f,f,3
-6630,2865,Palermo,Entire home/apt,3,9,3/7/2020,1.03,1,359,5/26/2015,t,1,1,1,Real Bed,978,1,978,1125,t,f,flexible,f,f,2
-6631,5333,Recoleta,Entire home/apt,3,51,3/6/2020,1.9,2,364,7/18/2013,t,1,1,2,Real Bed,2092,1,0,360,t,f,moderate,f,f,3
-6632,320,San Telmo,Entire home/apt,4,4,6/5/2019,0.26,2,0,7/20/2012,f,1,1,2,Real Bed,279,1,0,1125,t,f,moderate,f,f,1
-6633,12754,Villa Crespo,Entire home/apt,2,1,5/16/2020,0.77,1,110,4/28/2017,f,1,1,1,Real Bed,0,1,0,1125,f,f,strict_14_with_grace_period,f,f,1
-6634,9758,Palermo,Entire home/apt,2,19,3/9/2020,1.34,1,359,12/21/2018,f,2.5,2,3,Real Bed,3492,4,1048,1125,t,f,strict_14_with_grace_period,f,f,4
-6635,29,Recoleta,Entire home/apt,5,96,1/8/2020,0.82,6,179,9/13/2010,f,1.5,2,2,Real Bed,2790,2,697,1125,t,f,strict_14_with_grace_period,t,t,3
-6636,8459,Balvanera,Entire home/apt,10,42,2/26/2020,2.37,5,164,9/4/2012,t,3,3,11,Real Bed,2799,7,630,1125,t,f,strict_14_with_grace_period,f,f,4
-6637,6649,Almagro,Entire home/apt,3,8,2/29/2020,0.35,5,289,4/19/2015,t,1,1,1,Real Bed,0,1,0,90,f,f,flexible,f,f,2
-6638,10131,Balvanera,Entire home/apt,1,47,3/15/2020,3.59,1,0,7/7/2016,t,1,0,1,Real Bed,1000,1,0,1125,f,f,flexible,f,f,1
-6639,9424,Villa Crespo,Entire home/apt,3,11,3/14/2020,0.72,17,251,10/15/2012,f,1,1,1,Real Bed,1048,1,0,1125,t,f,moderate,t,t,3
-6640,7167,Recoleta,Entire home/apt,1,6,11/16/2019,0.28,4,365,2/6/2018,t,1,1,2,Real Bed,1046,1,0,60,t,f,moderate,f,f,2
-6641,10979,Palermo,Entire home/apt,2,17,3/15/2020,2.01,1,177,2/17/2018,t,2,1,1,Real Bed,0,2,1883,45,f,f,moderate,f,f,3
-6642,10136,Retiro,Entire home/apt,3,23,2/23/2020,1.81,1,264,1/31/2012,t,1,2,2,Real Bed,1955,1,0,1125,t,f,moderate,f,f,4
-6643,3008,Palermo,Entire home/apt,3,25,12/24/2019,0.54,62,329,3/7/2012,t,3,3,3,Real Bed,4185,1,0,180,t,f,strict_14_with_grace_period,f,f,4
-6644,11255,Palermo,Entire home/apt,4,12,3/19/2020,1.23,1,84,10/17/2013,t,1.5,1,1,Real Bed,1048,1,0,45,f,f,strict_14_with_grace_period,f,f,4
-6645,2910,Recoleta,Entire home/apt,2,7,3/12/2020,0.79,1,90,3/7/2016,f,1,1,1,Real Bed,1674,1,0,60,t,f,moderate,f,f,2
-6646,3826,Recoleta,Entire home/apt,3,3,10/11/2017,0.08,1,365,4/21/2016,f,1.5,3,3,Real Bed,1949,1,0,30,t,f,strict_14_with_grace_period,f,f,4
-6647,8317,Palermo,Entire home/apt,4,28,3/9/2020,1.88,10,98,6/7/2011,f,1,0,0,Real Bed,1395,1,0,90,t,f,strict_14_with_grace_period,f,f,3
-6648,815,Recoleta,Entire home/apt,9,63,3/31/2020,0.78,2,77,10/16/2013,t,1,1,2,Real Bed,900,2,350,60,t,f,strict_14_with_grace_period,f,t,1
-6649,462,N??ez,Private room,3,20,12/17/2019,0.25,4,359,11/29/2012,t,2.5,1,2,Real Bed,1397,1,559,365,f,f,strict_14_with_grace_period,f,f,2
-6650,11655,Palermo,Entire home/apt,3,11,1/2/2020,1.22,1,0,10/29/2017,t,1,0,2,Real Bed,1255,3,1255,1125,t,f,moderate,f,f,3
-6651,5666,Palermo,Entire home/apt,3,16,3/30/2020,0.59,1,266,3/1/2018,f,1,0,1,Real Bed,2102,1,0,42,f,f,moderate,f,f,4
-6652,7001,Colegiales,Entire home/apt,28,10,10/18/2019,0.52,39,86,5/31/2017,t,1,0,2,Real Bed,2452,2,701,1125,f,f,strict_14_with_grace_period,f,f,4
-6653,12372,Palermo,Entire home/apt,3,16,3/15/2020,2.33,2,0,8/4/2016,f,2.5,2,3,Real Bed,2092,1,0,1125,t,f,flexible,f,f,4
-6654,3777,Villa Crespo,Entire home/apt,4,64,4/30/2020,1.59,1,180,2/12/2014,t,1,1,1,Real Bed,600,1,0,180,t,f,strict_14_with_grace_period,f,f,1
-6655,11768,Monserrat,Entire home/apt,4,2,4/30/2020,0.29,2,264,5/18/2016,f,1,1,1,Real Bed,2444,1,1048,180,f,f,flexible,f,f,2
-6656,1620,Balvanera,Entire home/apt,30,65,3/19/2020,1,18,338,11/11/2013,f,2,2,2,Real Bed,1399,3,0,180,t,f,moderate,f,f,2
-6657,4670,Recoleta,Entire home/apt,3,15,3/4/2020,0.73,4,365,1/7/2013,f,1,1,1,Real Bed,0,2,0,1125,t,f,strict_14_with_grace_period,f,f,4
-6658,5089,Colegiales,Entire home/apt,7,17,2/27/2020,0.6,6,17,3/4/2015,f,1,0,2,Real Bed,800,2,227,180,f,f,moderate,f,f,1
-6659,9404,Retiro,Entire home/apt,3,16,11/21/2019,1.08,2,364,1/14/2019,f,1,1,2,Real Bed,1116,2,558,1125,f,f,flexible,f,f,2
-6660,10514,Villa del Parque,Entire home/apt,1,8,1/8/2020,0.64,1,175,5/21/2019,f,1,2,2,Real Bed,700,1,0,1125,t,f,strict_14_with_grace_period,f,f,2
-6661,2799,Colegiales,Entire home/apt,1,2,9/6/2016,0.04,1,0,6/30/2015,f,1,1,2,Real Bed,250,1,0,1125,f,f,flexible,f,f,1
-6662,12654,Palermo,Entire home/apt,2,6,3/14/2020,0.85,1,363,2/28/2017,f,1.5,1,1,Real Bed,558,1,0,1125,f,f,flexible,f,f,4
-6663,13815,Chacarita,Entire home/apt,2,1,5/2/2020,0.56,5,258,7/24/2017,t,1,3,3,Real Bed,3499,4,700,1125,t,f,strict_14_with_grace_period,f,f,4
-6664,8165,San Nicol?s,Entire home/apt,3,28,2/24/2020,1.55,2,179,1/8/2017,t,1,2,2,Real Bed,0,1,349,90,f,f,moderate,f,f,2
-6665,8613,Puerto Madero,Entire home/apt,3,18,3/5/2020,1.04,1,0,10/29/2014,f,2,1,3,Real Bed,1749,1,0,90,t,f,moderate,f,f,4
-6666,7083,Belgrano,Entire home/apt,3,26,12/16/2019,1.26,2,170,12/22/2016,f,1,1,1,Real Bed,1399,1,0,1125,t,f,moderate,f,f,3
-6667,8275,Palermo,Entire home/apt,7,3,3/9/2020,0.17,6,359,9/18/2016,f,1,0,1,Real Bed,1048,2,1048,90,f,f,strict_14_with_grace_period,f,f,3
-6668,13181,Recoleta,Entire home/apt,3,3,3/2/2020,0.5,1,81,12/27/2019,f,1,1,1,Real Bed,0,1,0,60,t,f,moderate,f,f,2
-6669,8022,Boedo,Private room,1,1,12/10/2018,0.05,1,0,7/10/2016,f,1,1,1,Real Bed,0,1,0,1125,t,f,flexible,f,f,1
-6670,6719,Palermo,Entire home/apt,6,12,1/1/2020,0.54,1,111,8/1/2018,f,1,1,1,Real Bed,500,1,0,1125,f,f,strict_14_with_grace_period,f,f,2
-6671,3836,Palermo,Entire home/apt,2,47,1/5/2020,1.25,1,52,8/21/2012,t,1,1,1,Real Bed,1800,2,0,100,f,f,strict_14_with_grace_period,f,f,3
-6672,11286,Recoleta,Entire home/apt,14,17,2/25/2020,1.57,18,84,11/3/2015,f,1,2,5,Real Bed,1746,2,0,365,t,f,moderate,f,f,4
-6673,4166,San Nicol?s,Entire home/apt,3,35,12/31/2019,0.95,1,364,1/10/2015,t,1,0,2,Real Bed,1255,2,0,90,t,f,moderate,f,f,3
-6674,4623,Villa Urquiza,Entire home/apt,1,87,6/18/2020,2.54,1,186,5/23/2014,t,1,1,1,Real Bed,650,2,1060,1125,f,f,strict_14_with_grace_period,f,f,1
-6675,11786,Palermo,Entire home/apt,2,17,3/8/2020,1.86,2,365,9/5/2019,t,1,0,3,Real Bed,1744,5,1744,1125,t,f,moderate,f,f,3
-6676,2687,Colegiales,Entire home/apt,3,34,2/8/2020,0.71,1,57,2/26/2016,f,1,2,3,Real Bed,800,4,800,44,f,f,flexible,f,f,3
-6677,7335,Palermo,Entire home/apt,2,7,1/15/2019,0.34,4,359,9/29/2014,f,1,0,1,Real Bed,1746,1,0,1125,f,f,moderate,f,f,3
-6678,13245,Chacarita,Entire home/apt,1,4,4/1/2020,0.77,1,179,1/3/2020,f,1.5,1,2,Real Bed,1744,2,1046,1125,t,f,strict_14_with_grace_period,f,f,3
-6679,12362,Balvanera,Entire home/apt,4,4,1/2/2020,0.54,2,206,10/20/2019,f,1,0,3,Real Bed,1052,1,0,1125,t,f,strict_14_with_grace_period,f,f,4
-6680,12838,Palermo,Entire home/apt,2,1,12/28/2019,0.17,1,174,1/27/2019,f,1.5,2,8,Real Bed,2444,8,0,365,t,f,strict_14_with_grace_period,f,f,4
-6681,12683,Recoleta,Entire home/apt,3,3,3/8/2020,0.55,1,18,11/19/2019,f,1,1,0,Real Bed,697,1,0,1125,t,f,flexible,f,f,2
-6682,1197,San Telmo,Entire home/apt,4,13,11/10/2019,0.23,72,84,5/23/2014,f,1,2,3,Real Bed,1746,1,0,1125,t,f,strict_14_with_grace_period,f,f,3
-6683,3150,Monserrat,Entire home/apt,1,45,2/16/2020,1,3,365,11/12/2014,t,1,1,2,Real Bed,2441,1,349,1125,t,f,strict_14_with_grace_period,f,f,3
-6684,6187,Recoleta,Entire home/apt,3,21,7/13/2019,0.93,5,49,9/27/2017,f,1,2,2,Real Bed,300,1,0,15,t,f,strict_14_with_grace_period,f,f,3
-6685,575,Palermo,Entire home/apt,2,189,3/9/2020,2.39,1,313,1/31/2013,t,1,0,1,Real Bed,3143,2,698,1125,t,f,flexible,f,t,4
-6686,6174,Recoleta,Entire home/apt,2,21,2/29/2020,0.85,2,114,7/30/2017,f,1,1,2,Real Bed,698,2,419,30,t,f,flexible,f,f,1
-6687,8821,Villa Crespo,Entire home/apt,3,38,4/28/2020,2.24,1,200,1/24/2019,t,1,1,2,Real Bed,1048,1,0,90,f,f,strict_14_with_grace_period,f,f,3
-6688,12678,Palermo,Entire home/apt,3,6,2/22/2020,0.89,1,313,11/19/2019,f,1,1,1,Real Bed,698,1,0,30,t,f,moderate,f,f,3
-6689,10246,Retiro,Entire home/apt,3,3,8/19/2019,0.24,6,0,5/9/2019,t,1.5,1,1,Real Bed,2092,2,1046,1125,t,f,moderate,f,f,4
-6690,7623,N??ez,Entire home/apt,2,15,3/6/2020,0.75,2,360,11/7/2017,t,1,1,1,Real Bed,2099,1,0,1125,t,f,moderate,f,f,2
-6691,5153,Saavedra,Entire home/apt,2,8,4/1/2019,0.28,1,360,2/9/2015,f,1,1,1,Real Bed,1399,1,0,20,f,f,moderate,f,f,3
-6692,6634,Palermo,Entire home/apt,4,16,4/4/2020,0.71,1,174,5/6/2017,f,1,0,1,Real Bed,1500,1,0,180,t,f,flexible,f,f,1
-6693,7520,Villa Crespo,Entire home/apt,1,13,1/9/2020,0.65,72,84,5/23/2014,f,1,1,1,Real Bed,0,1,0,1125,t,f,moderate,f,f,3
-6694,6825,Palermo,Entire home/apt,1,21,1/6/2019,0.94,1,0,2/12/2018,f,1,0,1,Real Bed,400,1,300,5,f,f,moderate,f,f,1
-6695,6527,Palermo,Entire home/apt,1,56,3/17/2020,2.44,1,36,5/28/2018,t,1,2,3,Real Bed,1000,1,0,30,t,f,flexible,f,f,3
-6696,7658,Palermo,Entire home/apt,7,6,1/12/2020,0.33,5,365,10/17/2018,t,1,1,1,Real Bed,1186,1,0,1125,t,f,strict_14_with_grace_period,f,f,1
-6697,13744,Balvanera,Entire home/apt,1,2,3/10/2020,0.55,6,84,10/2/2016,f,1,1,2,Real Bed,1000,1,0,25,t,f,flexible,f,f,1
-6698,6023,Recoleta,Entire home/apt,3,23,2/28/2020,0.88,1,362,4/26/2018,t,1,2,3,Real Bed,0,1,0,1125,t,f,moderate,f,f,4
-6699,8773,Recoleta,Entire home/apt,2,30,3/10/2020,1.91,1,46,5/3/2012,t,1,1,1,Real Bed,907,1,0,65,f,f,strict_14_with_grace_period,f,f,2
-6700,3650,Recoleta,Entire home/apt,5,2,7/22/2019,0.17,4,87,1/6/2014,t,1,1,1,Real Bed,2092,1,0,1125,f,f,moderate,f,f,2
-6701,9829,Palermo,Entire home/apt,3,39,3/9/2020,2.67,2,85,4/8/2019,f,1,1,2,Real Bed,1051,1,0,1125,t,f,strict_14_with_grace_period,f,f,3
-6702,839,Palermo,Entire home/apt,10,19,1/28/2020,0.24,2,365,8/26/2013,t,1.5,1,2,Real Bed,1397,2,1048,1125,f,f,strict_14_with_grace_period,t,f,4
-6703,7102,Palermo,Entire home/apt,3,53,5/9/2020,2.51,1,51,4/26/2016,f,1,1,1,Real Bed,600,1,0,1125,t,f,flexible,f,f,1
-6704,6220,Almagro,Entire home/apt,5,87,3/11/2020,3.49,1,272,12/26/2015,t,1,1,1,Real Bed,350,1,0,1124,t,f,strict_14_with_grace_period,f,f,4
-6705,6483,Monserrat,Entire home/apt,1,33,3/14/2020,1.41,2,358,7/17/2014,f,1.5,2,2,Real Bed,1744,2,1046,1125,f,f,flexible,f,f,4
-6706,4174,Palermo,Entire home/apt,3,98,3/10/2020,2.66,1,364,4/30/2017,f,1,1,1,Real Bed,1186,1,0,60,t,f,moderate,f,f,1
-6707,5686,Palermo,Private room,4,30,2/14/2020,1.08,2,0,6/19/2016,f,1,1,1,Real Bed,0,1,697,15,f,f,flexible,f,f,1
-6708,3892,Palermo,Entire home/apt,3,39,12/2/2019,0.97,2,89,8/3/2015,f,2,1,2,Real Bed,0,4,3138,20,f,f,moderate,f,f,4
-6709,10970,Puerto Madero,Entire home/apt,3,19,3/16/2020,1.83,1,328,7/1/2019,t,2,2,3,Real Bed,2099,4,2799,1125,t,f,flexible,f,f,4
-6710,1317,Palermo,Entire home/apt,1,69,7/11/2019,0.98,2,172,12/25/2013,f,2,2,2,Real Bed,5231,5,3487,180,t,f,strict_14_with_grace_period,f,f,4
-6711,11508,Almagro,Entire home/apt,2,6,5/5/2020,1.08,1,137,8/16/2019,f,1,1,1,Real Bed,698,1,0,28,f,f,flexible,f,f,2
-6712,5799,Villa Ort?zar,Private room,2,3,7/14/2018,0.12,3,0,10/3/2013,f,2,1,1,Real Bed,350,1,420,1125,t,f,moderate,f,f,1
-6713,7924,Retiro,Entire home/apt,3,65,3/24/2020,3.36,2,128,5/19/2018,t,1,1,1,Real Bed,1402,1,0,180,f,f,moderate,f,f,3
-6714,2626,Recoleta,Entire home/apt,3,80,12/31/2019,1.64,1,186,8/15/2015,t,1,1,4,Real Bed,2793,2,349,1125,f,f,strict_14_with_grace_period,f,f,3
-6715,7864,N??ez,Entire home/apt,1,2,8/25/2019,0.1,2,360,10/24/2018,f,1,1,1,Real Bed,490,1,0,1125,f,f,moderate,f,f,3
-6716,1403,Palermo,Entire home/apt,4,15,4/2/2020,0.22,1,359,11/4/2013,f,2,2,3,Real Bed,3492,1,0,180,f,f,strict_14_with_grace_period,f,f,4
-6717,4869,Recoleta,Entire home/apt,3,3,1/29/2018,0.1,1,0,5/5/2016,f,1,1,2,Real Bed,300,1,0,30,f,f,strict_14_with_grace_period,f,f,1
-6718,11555,Villa Crespo,Entire home/apt,4,3,5/30/2020,0.48,1,174,1/25/2015,f,1.5,1,1,Real Bed,1048,1,0,180,t,f,flexible,f,f,2
-6719,7519,San Telmo,Entire home/apt,1,32,1/27/2020,1.61,1,359,7/19/2016,f,1,1,2,Real Bed,1000,3,250,1125,f,f,flexible,f,f,3
-6720,6086,Palermo,Entire home/apt,14,22,5/6/2019,0.92,1,82,9/30/2016,f,1,1,1,Real Bed,0,2,2092,180,t,f,strict_14_with_grace_period,f,f,2
-6721,12979,Colegiales,Entire home/apt,2,2,1/26/2020,0.35,1,0,2/8/2017,f,2,1,1,Real Bed,697,1,0,1125,t,f,flexible,f,f,2
-6722,488,San Telmo,Entire home/apt,3,112,3/13/2020,1.35,2,306,1/31/2013,t,2,2,0,Real Bed,3492,2,698,1125,f,f,strict_14_with_grace_period,f,f,4
-6723,212,Palermo,Entire home/apt,2,132,4/2/2020,1.3,9,269,10/25/2011,f,1,0,1,Real Bed,1046,1,0,90,f,f,moderate,t,t,3
-6724,3424,Almagro,Entire home/apt,3,1,3/5/2018,0.04,1,174,6/22/2016,f,1,1,1,Real Bed,750,1,0,1125,f,f,flexible,f,f,1
-6725,7661,Recoleta,Entire home/apt,3,22,6/15/2020,1.2,62,170,3/7/2012,t,1,2,2,Real Bed,3487,1,0,1125,f,f,strict_14_with_grace_period,f,f,4
-6726,11510,Villa Crespo,Entire home/apt,3,25,6/3/2020,2.48,1,162,8/17/2019,t,1,0,2,Real Bed,1050,2,700,30,t,f,moderate,f,f,2
-6727,1596,Palermo,Shared room,3,10,1/21/2019,0.15,19,0,9/3/2014,t,5.5,1,10,Real Bed,1744,1,697,40,f,f,strict_14_with_grace_period,f,f,1
-6728,841,Palermo,Entire home/apt,4,112,4/8/2020,1.42,1,282,11/2/2013,t,1,1,1,Real Bed,1744,1,0,1125,f,f,moderate,f,f,4
-6729,5440,N??ez,Entire home/apt,4,6,3/18/2020,0.66,1,0,4/19/2014,f,1,1,1,Real Bed,697,1,0,120,f,f,flexible,f,f,1
-6730,8109,Parque Chacabuco,Entire home/apt,3,2,3/2/2020,0.12,1,360,12/22/2017,f,1,1,1,Real Bed,700,2,0,31,f,f,moderate,f,f,2
-6731,1734,Belgrano,Entire home/apt,1,13,4/3/2020,0.23,1,104,3/22/2015,t,1,0,1,Pull-out Sofa,500,1,0,60,f,f,moderate,f,f,2
-6732,36,Retiro,Entire home/apt,30,5,10/12/2018,0.06,4,364,12/16/2010,t,1.5,3,3,Real Bed,3487,1,0,365,f,f,strict_14_with_grace_period,f,f,4
-6733,1381,Villa Urquiza,Entire home/apt,15,32,2/22/2020,0.47,1,360,10/2/2014,t,1,1,0,Real Bed,1399,1,0,1125,f,f,strict_14_with_grace_period,f,f,2
-6734,2023,Recoleta,Entire home/apt,3,57,3/18/2020,0.96,17,347,10/15/2012,f,1,1,2,Real Bed,349,1,0,1125,t,f,flexible,t,t,4
-6735,10780,Belgrano,Entire home/apt,7,13,3/26/2020,1.1,3,360,2/5/2016,t,1,1,1,Real Bed,1259,1,0,1125,f,f,strict_14_with_grace_period,f,f,3
-6736,11703,Belgrano,Entire home/apt,3,5,1/16/2020,0.53,1,110,11/26/2015,f,1,1,1,Real Bed,1399,1,0,35,t,f,moderate,f,f,2
-6737,5280,Almagro,Entire home/apt,7,2,7/1/2018,0.07,1,359,11/7/2013,f,1.5,1,2,Real Bed,3492,2,1048,1125,t,f,moderate,f,f,4
-6738,11601,Palermo,Entire home/apt,3,7,1/14/2020,0.77,91,307,9/4/2012,f,1,0,3,Real Bed,0,1,0,1125,f,f,moderate,f,f,4
-6739,8986,Palermo,Entire home/apt,4,2,7/19/2019,0.16,4,109,3/14/2016,t,2,1,1,Real Bed,2023,1,0,60,t,f,moderate,f,f,4
-6740,8451,San Nicol?s,Entire home/apt,2,18,3/27/2020,1.05,2,266,12/6/2013,t,1,0,1,Real Bed,1968,1,0,1125,f,f,strict_14_with_grace_period,f,f,2
-6741,4639,Palermo,Entire home/apt,3,1,10/24/2017,0.03,1,83,8/24/2017,f,1,1,2,Real Bed,1397,1,0,1125,f,f,flexible,f,f,4
-6742,5738,San Telmo,Private room,1,39,4/1/2020,1.41,2,80,8/28/2011,t,1.5,1,2,Real Bed,1397,1,0,25,f,f,strict_14_with_grace_period,f,f,1
-6743,12241,Monserrat,Entire home/apt,3,3,2/17/2020,0.39,1,174,11/20/2013,f,2,2,3,Real Bed,1725,1,0,100,t,f,strict_14_with_grace_period,f,f,4
-6744,12355,Colegiales,Entire home/apt,3,2,3/4/2020,0.48,58,174,6/10/2012,f,2,2,3,Real Bed,4190,3,1048,1125,t,f,flexible,f,f,4
-6745,3442,Monserrat,Entire home/apt,3,50,10/24/2019,1.13,1,138,6/10/2012,f,1,1,1,Real Bed,1746,1,0,14,f,f,moderate,f,f,2
-6746,257,Palermo,Entire home/apt,2,34,9/7/2019,0.62,2,359,4/17/2012,t,1,1,3,Real Bed,698,2,349,60,f,f,moderate,f,f,3
-6747,145,Palermo,Entire home/apt,1,19,4/22/2019,0.18,14,361,8/23/2011,f,1.5,2,5,Real Bed,2452,2,0,365,f,f,strict_14_with_grace_period,f,f,4
-6748,3674,Palermo,Entire home/apt,3,4,10/14/2019,0.11,9,86,2/1/2016,f,1,1,3,Real Bed,1751,1,0,90,t,f,moderate,f,f,2
-6749,5161,Barracas,Entire home/apt,3,40,3/9/2020,1.3,1,0,11/12/2017,f,1,1,2,Real Bed,349,2,418,1125,t,f,flexible,f,f,1
-6750,2008,Palermo,Entire home/apt,2,49,3/18/2020,0.89,1,250,8/1/2015,t,2,2,3,Real Bed,2103,1,0,1125,f,f,strict_14_with_grace_period,f,f,4
-6751,7827,Palermo,Entire home/apt,2,43,3/9/2020,2.22,1,90,11/7/2018,t,2,3,4,Real Bed,2444,1,0,45,t,f,moderate,f,f,4
-6752,192,Palermo,Entire home/apt,4,34,3/29/2020,0.33,9,365,12/27/2011,f,1,1,1,Real Bed,1744,1,0,180,f,f,moderate,f,f,3
-6753,6632,Chacarita,Entire home/apt,5,9,12/11/2019,0.4,6,0,4/26/2016,t,1.5,1,1,Real Bed,1500,1,0,1125,t,f,moderate,f,f,3
-6754,492,Palermo,Entire home/apt,3,96,3/14/2020,1.11,2,363,8/5/2012,t,1,1,2,Real Bed,2441,2,558,180,f,f,strict_14_with_grace_period,t,t,3
-6755,2577,San Telmo,Entire home/apt,1,49,1/4/2020,0.95,2,359,5/12/2015,f,1,2,3,Real Bed,1048,4,1048,90,t,f,strict_14_with_grace_period,f,f,4
-6756,310,Recoleta,Entire home/apt,2,36,10/16/2019,0.38,1,197,7/5/2011,f,1,1,2,Real Bed,1255,1,0,1125,f,f,strict_14_with_grace_period,f,f,3
-6757,8793,Saavedra,Entire home/apt,3,10,10/17/2019,0.6,2,173,11/4/2016,t,2,1,1,Real Bed,1399,1,0,10,f,f,moderate,f,f,2
-6758,13506,Palermo,Entire home/apt,20,3,3/9/2020,0.67,1,267,9/5/2016,f,1,1,2,Real Bed,1052,1,0,62,t,f,strict_14_with_grace_period,f,f,2
-6759,10511,Almagro,Entire home/apt,3,1,7/29/2019,0.09,1,174,5/27/2019,f,1,1,3,Real Bed,0,2,698,60,f,f,flexible,f,f,3
-6760,7728,Palermo,Entire home/apt,2,16,3/29/2020,0.81,2,176,1/2/2018,f,1,1,1,Real Bed,1401,1,0,1125,f,f,flexible,f,f,3
-6761,5959,Palermo,Entire home/apt,5,8,4/21/2019,0.31,5,85,12/13/2016,f,1,0,1,Real Bed,550,1,0,60,t,f,strict_14_with_grace_period,f,f,1
-6762,2301,Recoleta,Entire home/apt,2,22,3/8/2019,0.39,22,365,12/10/2014,t,1,0,1,Real Bed,1100,1,0,1125,f,f,strict_14_with_grace_period,f,f,1
-6763,2121,Recoleta,Entire home/apt,1,3,1/22/2019,0.07,10,359,9/16/2011,t,1,1,2,Real Bed,1046,2,1395,30,t,f,flexible,t,f,4
-6764,8759,Caballito,Entire home/apt,5,40,2/27/2020,2.35,1,163,1/20/2019,t,1,1,1,Real Bed,550,1,0,200,t,f,strict_14_with_grace_period,f,f,1
-6765,10808,Palermo,Entire home/apt,3,6,12/19/2019,0.52,14,365,2/19/2015,f,1,0,1,Real Bed,3138,1,0,1125,f,f,strict_14_with_grace_period,f,f,3
-6766,8596,Palermo,Entire home/apt,3,11,1/31/2020,0.63,3,90,10/18/2016,f,1,1,2,Real Bed,1046,1,0,100,f,f,strict_14_with_grace_period,f,f,3
-6767,9198,Almagro,Entire home/apt,2,11,3/14/2020,0.71,2,360,11/16/2018,t,1,0,1,Real Bed,1050,1,0,30,t,f,flexible,f,f,2
-6768,9003,Villa Urquiza,Entire home/apt,4,4,5/12/2019,0.27,1,0,5/27/2017,f,2.5,3,4,Real Bed,1500,1,0,50,f,f,moderate,f,f,3
-6769,9701,Palermo,Entire home/apt,1,5,3/26/2020,0.34,20,295,3/27/2012,f,1,0,2,Real Bed,1397,3,0,1125,t,f,flexible,f,f,4
-6770,2538,Parque Patricios,Private room,1,12,12/7/2019,0.35,1,265,7/29/2015,f,1,1,1,Real Bed,1959,1,1749,1125,f,f,moderate,f,f,1
-6771,6566,San Nicol?s,Entire home/apt,2,5,9/25/2018,0.21,5,365,7/22/2017,f,1,1,3,Real Bed,800,3,420,90,t,f,strict_14_with_grace_period,f,f,2
-6772,9717,N??ez,Entire home/apt,3,5,12/9/2019,0.36,27,0,9/14/2015,f,1,1,1,Real Bed,500,1,0,180,f,f,strict_14_with_grace_period,f,f,2
-6773,4390,Boedo,Private room,3,2,9/17/2019,0.06,4,175,1/26/2016,f,1,1,2,Real Bed,1399,1,700,1125,t,f,strict_14_with_grace_period,f,f,2
-6774,13394,Palermo,Entire home/apt,20,6,5/1/2020,1.27,1,140,11/28/2019,f,1,1,1,Real Bed,1395,1,0,1125,t,f,strict_14_with_grace_period,f,f,4
-6775,2022,Caballito,Private room,1,4,4/8/2018,0.07,1,358,7/27/2015,f,1,1,1,Real Bed,1500,1,200,1125,t,f,moderate,f,f,1
-6776,11682,Palermo,Entire home/apt,2,8,3/21/2020,1.52,1,360,6/21/2015,t,1,2,3,Real Bed,1046,2,349,1125,f,f,moderate,f,f,4
-6777,8205,Recoleta,Entire home/apt,3,38,2/24/2020,2.05,1,359,3/8/2018,t,1,1,1,Real Bed,616,1,0,1125,t,f,flexible,f,f,2
-6778,1930,Palermo,Hotel room,1,3,7/4/2018,0.06,4,356,6/24/2015,f,1,1,5,Real Bed,0,2,1046,1125,t,f,moderate,f,f,4
-6779,7868,Palermo,Entire home/apt,1,52,4/15/2020,2.68,1,89,11/10/2018,f,1,1,1,Real Bed,488,2,1395,15,f,f,flexible,f,f,2
-6780,5328,Recoleta,Entire home/apt,2,27,1/11/2020,1.51,3,294,1/7/2018,f,1.5,4,5,Real Bed,1395,1,0,1125,f,f,moderate,f,f,4
-6781,13809,Balvanera,Entire home/apt,10,1,5/13/2020,0.7,1,2,2/17/2020,f,1,2,5,Real Bed,1399,2,700,90,t,f,flexible,f,f,4
-6782,12043,Recoleta,Entire home/apt,1,69,4/1/2020,7.87,3,365,7/18/2016,t,1,1,2,Real Bed,0,2,700,90,f,f,flexible,f,f,2
-6783,9421,Villa Crespo,Entire home/apt,1,37,3/8/2020,2.46,1,295,3/12/2019,t,1,1,1,Real Bed,838,3,629,28,t,f,flexible,f,f,3
-6784,6262,Villa Crespo,Entire home/apt,2,23,3/31/2020,0.97,1,155,2/5/2017,t,1,1,2,Real Bed,559,2,698,1125,t,f,moderate,f,f,1
-6785,7665,Almagro,Private room,1,6,1/3/2019,0.3,1,0,10/25/2018,f,1,1,2,Real Bed,0,1,400,1125,t,f,flexible,f,f,1
-6786,13169,Palermo,Entire home/apt,1,3,4/15/2020,0.53,1,357,12/21/2019,f,3,3,4,Real Bed,3492,2,349,1125,f,f,strict_14_with_grace_period,f,f,4
-6787,10187,Colegiales,Entire home/apt,3,3,9/6/2019,0.23,1,359,5/5/2019,f,1,2,4,Real Bed,1397,1,0,1125,t,f,flexible,f,f,4
-6788,7212,Palermo,Entire home/apt,2,13,3/21/2020,0.61,2,180,7/3/2016,t,1,1,1,Real Bed,1169,1,0,30,t,f,flexible,f,f,2
-6789,835,Palermo,Entire home/apt,3,17,1/4/2020,0.22,2,283,10/28/2013,f,2.5,2,2,Real Bed,6974,1,0,1125,t,f,moderate,f,f,4
-6790,2781,Palermo,Entire home/apt,3,12,11/18/2019,0.28,2,364,3/27/2016,f,1,1,0,Real Bed,907,1,0,1125,f,f,strict_14_with_grace_period,f,f,2
-6791,3719,Recoleta,Entire home/apt,4,81,3/6/2020,2.05,1,0,1/24/2012,t,3,4,5,Real Bed,2755,7,2204,1124,f,f,strict_14_with_grace_period,f,f,4
-6792,7898,Retiro,Private room,4,2,4/12/2019,0.1,28,344,6/1/2018,f,1,1,2,Real Bed,837,2,0,180,t,f,flexible,f,f,2
-6793,9106,Villa Urquiza,Entire home/apt,2,3,4/9/2019,0.2,1,0,2/14/2016,f,1,1,1,Real Bed,558,1,0,30,t,f,flexible,f,f,1
-6794,1997,Recoleta,Entire home/apt,1,17,1/27/2020,0.78,10,359,5/19/2014,t,1.5,2,3,Real Bed,1746,3,0,1125,t,f,flexible,f,f,4
-6795,11336,Palermo,Entire home/apt,2,14,2/25/2020,1.86,1,176,10/14/2012,f,1.5,2,1,Real Bed,0,2,0,80,t,f,strict_14_with_grace_period,f,f,2
-6796,8563,Recoleta,Entire home/apt,3,30,3/16/2020,1.71,17,359,10/15/2012,f,1,0,1,Real Bed,697,1,0,180,t,f,flexible,t,t,3
-6797,11162,Palermo,Entire home/apt,7,27,3/16/2020,2.81,1,101,7/18/2019,f,1,0,1,Real Bed,0,1,0,365,t,f,flexible,f,f,2
-6798,3386,Belgrano,Entire home/apt,1,18,9/26/2018,0.42,6,85,2/22/2016,f,1,1,1,Real Bed,1500,1,0,365,t,f,flexible,f,f,4
-6799,13170,Puerto Madero,Entire home/apt,2,4,4/15/2020,0.87,1,175,12/26/2019,f,1,1,1,Real Bed,910,1,0,1125,t,f,flexible,f,f,3
+Unnamed: 0,id,neighbourhood,room_type,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,host_since,host_is_superhost,bathrooms,bedrooms,beds,bed_type,cleaning_fee,guests_included,extra_people,maximum_nights,instant_bookable,is_business_travel_ready,cancellation_policy,require_guest_profile_picture,require_guest_phone_verification,price
+9223,10036,Monserrat,Hotel room,1,3,1/25/20,0.25,3,326,4/17/19,f,1.0,1,1,Real Bed,698,2,0,365,t,f,flexible,f,f,4
+8260,2636,Balvanera,Entire home/apt,3,9,4/27/20,0.36,1,326,2/11/16,t,1.5,1,1,Real Bed,1048,1,0,1125,f,f,flexible,f,f,3
+9517,9895,Palermo,Entire home/apt,3,6,3/8/20,0.42,3,299,1/4/17,t,1.0,0,0,Real Bed,2092,1,0,365,f,f,moderate,f,f,2
+8723,10664,Palermo,Entire home/apt,1,8,5/2/20,1.64,1,41,6/9/19,f,1.0,1,2,Real Bed,0,1,0,100,f,f,strict_14_with_grace_period,f,f,2
+8088,6509,Balvanera,Private room,1,23,3/13/20,1.02,1,175,1/21/14,t,1.0,1,2,Real Bed,350,1,0,1125,t,f,flexible,f,f,1
+6600,4786,Palermo,Entire home/apt,1,113,2/29/20,3.76,3,354,4/23/12,t,1.0,1,1,Real Bed,3138,1,0,1125,f,f,moderate,f,f,4
+7053,12647,Recoleta,Entire home/apt,5,9,3/22/20,1.35,2,0,7/8/13,t,1.0,1,1,Real Bed,1395,3,0,179,t,f,moderate,f,f,3
+9400,13080,Palermo,Entire home/apt,2,3,2/26/20,0.55,1,78,6/10/17,f,1.0,2,1,Real Bed,698,1,0,10,f,f,strict_14_with_grace_period,f,f,1
+6597,2153,Recoleta,Entire home/apt,4,9,3/18/20,0.25,7,365,7/15/13,t,1.5,2,2,Real Bed,1500,1,0,180,f,f,moderate,f,f,3
+8765,9755,Palermo,Entire home/apt,15,18,3/1/20,1.26,17,51,4/13/16,t,1.5,2,3,Real Bed,1746,1,0,300,t,f,moderate,f,f,4
+7352,3096,Palermo,Private room,5,3,2/28/19,0.06,1,364,6/27/16,f,1.0,1,1,Real Bed,1395,1,1395,120,f,f,moderate,f,f,1
+6923,2700,Retiro,Entire home/apt,2,80,5/31/20,1.55,1,172,2/29/16,t,1.0,1,1,Real Bed,1046,1,0,30,f,f,strict_14_with_grace_period,f,f,2
+6941,11764,Palermo,Entire home/apt,1,3,12/22/19,0.34,1,326,9/7/19,f,1.0,1,1,Real Bed,698,1,0,60,t,f,moderate,f,f,3
+8897,2764,Palermo,Entire home/apt,2,67,3/16/20,1.3,1,362,1/16/16,t,1.0,1,1,Real Bed,2103,1,0,1125,f,f,strict_14_with_grace_period,f,f,4
+7355,1577,Belgrano,Entire home/apt,60,8,1/5/19,0.17,15,359,6/14/12,f,2.0,2,4,Real Bed,3920,1,0,180,f,f,flexible,f,f,4
+7319,5721,Chacarita,Private room,7,5,11/1/19,0.18,2,206,8/7/16,t,1.5,1,1,Real Bed,0,1,560,365,f,f,flexible,f,f,1
+7560,12622,Palermo,Entire home/apt,2,5,3/15/20,0.68,1,361,12/12/12,f,1.0,1,2,Real Bed,0,2,701,1125,f,f,moderate,f,f,4
+7367,6247,La Paternal,Private room,3,5,2/15/19,0.21,4,175,6/27/16,f,1.5,1,1,Real Bed,490,1,700,1125,t,f,flexible,f,f,1
+9453,783,San Nicolás,Entire home/apt,4,45,1/10/18,0.56,2,84,9/24/13,t,1.0,1,1,Real Bed,2744,3,0,1125,f,f,strict_14_with_grace_period,f,f,3
+9211,12520,Recoleta,Entire home/apt,3,1,11/20/19,0.14,16,361,2/21/14,f,2.0,2,2,Real Bed,2102,2,1051,1125,f,f,strict_14_with_grace_period,f,f,4
+6926,12076,Recoleta,Entire home/apt,2,6,4/13/20,1.08,1,176,11/11/12,f,1.0,1,1,Real Bed,1753,1,0,1125,t,f,strict_14_with_grace_period,f,f,1
+6971,5543,San Telmo,Entire home/apt,2,5,4/10/19,0.18,7,362,7/24/12,f,1.0,1,3,Real Bed,2804,2,351,31,t,f,strict_14_with_grace_period,f,f,3
+9662,11546,Colegiales,Entire home/apt,2,6,1/27/20,0.7,2,172,1/10/18,t,1.0,1,3,Real Bed,1187,1,0,27,f,f,flexible,f,f,4
+9496,11416,Recoleta,Entire home/apt,3,12,5/31/20,1.26,1,283,1/25/17,t,1.5,1,2,Real Bed,697,2,349,1125,t,f,flexible,f,f,3
+7260,8161,Recoleta,Entire home/apt,2,6,2/19/19,0.32,1,0,6/28/15,f,1.0,1,4,Real Bed,700,1,1000,30,f,f,flexible,f,f,2
+8108,366,Palermo,Entire home/apt,5,46,3/8/20,0.51,6,176,9/13/10,f,1.0,1,2,Real Bed,2452,2,701,1125,f,f,strict_14_with_grace_period,t,t,4
+7891,797,Belgrano,Entire home/apt,30,89,6/4/20,1.23,4,343,3/2/11,t,2.0,2,4,Real Bed,3499,6,0,365,f,f,flexible,f,f,4
+7225,2888,Belgrano,Entire home/apt,2,29,10/6/19,0.88,1,0,12/31/13,t,1.0,1,1,Real Bed,308,2,308,1125,f,f,strict_14_with_grace_period,f,f,1
+9172,4155,Colegiales,Entire home/apt,1,23,4/15/20,0.63,30,347,11/4/15,t,2.5,3,4,Real Bed,4204,1,0,1125,f,f,strict_14_with_grace_period,f,f,4
+8842,5619,Núñez,Entire home/apt,1,2,4/16/18,0.07,1,0,1/21/14,f,1.0,1,1,Real Bed,200,1,0,1125,f,f,moderate,f,f,1
+7025,4129,Palermo,Entire home/apt,7,164,6/4/20,4.39,2,180,7/25/11,t,1.0,1,2,Real Bed,2441,2,697,1125,t,f,moderate,f,f,3
+8947,11819,Palermo,Entire home/apt,1,6,12/1/19,0.66,1,178,9/12/19,f,1.5,1,2,Real Bed,2092,1,0,365,t,f,flexible,f,f,3
+8102,4804,Palermo,Entire home/apt,2,40,1/9/20,1.23,1,361,8/4/17,t,1.0,0,1,Real Bed,1753,1,0,1125,f,f,moderate,f,f,3
+7443,12802,Palermo,Entire home/apt,7,2,1/5/20,0.3,7,4,3/21/19,f,1.0,0,1,Real Bed,1744,1,0,1125,t,f,moderate,f,f,1
+8516,2193,Balvanera,Private room,1,2,12/16/15,0.04,1,360,10/5/15,f,1.0,1,2,Real Bed,350,1,840,1125,f,f,moderate,f,f,1
+7701,698,San Telmo,Entire home/apt,3,10,1/5/20,0.13,10,84,8/26/11,f,1.5,2,2,Real Bed,5587,1,0,1125,f,f,strict_14_with_grace_period,f,f,4
+8528,261,Recoleta,Entire home/apt,7,1,4/5/19,0.07,1,362,4/25/12,f,1.5,1,0,Real Bed,1753,1,0,1125,f,f,strict_14_with_grace_period,f,f,3
+9501,4529,Palermo,Entire home/apt,2,49,3/8/20,1.39,9,86,10/25/11,f,1.0,1,1,Real Bed,701,2,350,90,f,f,moderate,t,t,3
+8115,9720,Retiro,Entire home/apt,2,1,6/18/19,0.08,1,179,12/28/15,f,1.0,1,2,Real Bed,600,1,0,1125,t,f,flexible,f,f,1
+9548,10741,Palermo,Entire home/apt,14,9,5/30/20,0.78,16,342,2/7/12,t,1.0,1,1,Real Bed,1052,1,0,1000,f,f,strict_14_with_grace_period,t,t,1
+7174,3112,Palermo,Entire home/apt,1,1,3/25/17,0.03,4,192,6/30/16,f,1.0,1,3,Real Bed,0,4,0,365,t,f,moderate,f,f,4
+7337,12192,Almagro,Entire home/apt,1,4,3/15/20,0.53,1,212,10/11/19,f,1.0,1,3,Real Bed,700,1,0,29,f,f,flexible,f,f,3
+6736,11703,Belgrano,Entire home/apt,3,5,1/16/20,0.53,1,110,11/26/15,f,1.0,1,1,Real Bed,1399,1,0,35,t,f,moderate,f,f,2
+7791,6794,San Nicolás,Entire home/apt,28,16,8/18/19,0.71,3,88,8/4/18,f,1.0,1,3,Real Bed,0,1,0,120,f,f,moderate,f,f,1
+9627,6570,Retiro,Entire home/apt,2,30,1/25/20,1.29,1,179,6/15/16,f,1.0,1,1,Real Bed,1116,1,0,90,t,f,flexible,f,f,2
+8501,3155,Belgrano,Entire home/apt,1,20,5/11/19,0.51,6,360,2/22/16,f,1.0,1,1,Real Bed,1500,1,0,365,t,f,flexible,f,f,4
+7002,3080,Recoleta,Private room,1,7,12/2/16,0.15,1,0,6/25/15,f,1.0,1,1,Real Bed,150,1,0,1125,f,f,moderate,f,f,1
+8500,3724,Belgrano,Private room,1,7,2/12/20,0.17,2,360,12/26/16,f,1.0,1,1,Real Bed,700,2,1050,1125,t,f,strict_14_with_grace_period,f,f,1
+6871,2041,Balvanera,Entire home/apt,5,9,7/31/17,0.15,2,363,5/28/15,f,1.0,1,3,Real Bed,1395,2,697,1125,f,f,moderate,f,f,3
+7571,11219,Retiro,Entire home/apt,2,39,3/16/20,3.89,1,179,12/4/15,f,1.0,1,1,Real Bed,0,1,0,30,t,f,flexible,f,f,2
+9017,5339,Palermo,Private room,1,26,6/23/19,0.88,7,50,1/8/18,f,1.0,1,2,Real Bed,0,1,0,60,f,f,flexible,f,f,1
+8743,11236,Recoleta,Entire home/apt,2,20,3/14/20,2.01,5,365,12/6/12,t,1.0,0,1,Real Bed,1255,2,0,1125,f,f,moderate,f,f,2
+7647,3153,San Cristóbal,Entire home/apt,3,2,12/29/16,0.05,1,0,7/13/16,f,1.0,1,1,Real Bed,2092,1,10113,36,f,f,moderate,f,f,1
+8509,8929,Belgrano,Private room,1,18,11/7/19,1.2,1,357,2/2/19,t,1.0,1,1,Real Bed,300,1,0,30,f,f,flexible,f,f,1
+6527,5967,Colegiales,Private room,7,20,5/31/20,0.82,1,359,4/9/18,t,1.0,1,1,Real Bed,2799,1,0,90,f,f,flexible,f,f,1
+8772,5435,San Nicolás,Entire home/apt,2,89,3/14/20,4.05,1,361,11/1/16,t,1.0,1,2,Real Bed,0,2,841,30,t,f,strict_14_with_grace_period,f,f,2
+7612,4883,Caballito,Entire home/apt,10,14,9/7/18,0.44,1,0,9/9/15,f,1.0,1,1,Real Bed,240,1,0,60,f,f,moderate,f,f,1
+7237,5192,Palermo,Entire home/apt,3,15,3/4/20,0.5,28,125,5/26/14,t,2.5,3,4,Real Bed,3492,1,0,360,t,f,strict_14_with_grace_period,f,f,4
+9355,7404,Palermo,Entire home/apt,45,2,11/27/18,0.1,2,364,10/5/18,f,1.0,1,1,Real Bed,1000,1,500,365,f,f,strict_14_with_grace_period,f,f,1
+6615,10257,Belgrano,Private room,1,19,4/25/20,1.52,2,84,12/26/16,f,1.0,2,2,Real Bed,0,2,560,15,t,f,moderate,f,f,2
+6925,3614,La Boca,Private room,2,1,11/29/19,0.14,4,174,7/31/16,t,1.0,1,1,Real Bed,1050,1,700,1125,f,f,moderate,f,f,1
+7208,4280,Belgrano,Entire home/apt,2,46,6/9/20,1.25,1,323,5/31/17,t,1.5,2,5,Real Bed,3499,5,700,1125,t,f,moderate,f,f,4
+9173,12377,Palermo,Entire home/apt,1,16,3/14/20,2.08,1,163,10/26/19,f,1.0,0,1,Real Bed,900,2,400,1125,t,f,strict_14_with_grace_period,f,f,2
+7751,2570,Puerto Madero,Entire home/apt,2,97,3/14/20,1.82,1,360,8/18/15,t,2.0,2,3,Real Bed,2099,1,0,1125,f,f,moderate,f,f,4
+9497,1312,Palermo,Entire home/apt,5,281,3/8/20,4.02,1,83,8/25/14,f,1.0,1,1,Real Bed,400,1,0,30,f,f,strict_14_with_grace_period,f,f,1
+7077,12687,Chacarita,Entire home/apt,4,1,12/21/19,0.16,1,174,7/5/19,f,1.5,1,1,Real Bed,1048,2,698,1125,f,f,strict_14_with_grace_period,f,f,3
+7635,13524,Palermo,Entire home/apt,3,1,2/24/20,0.25,1,84,1/27/20,f,1.0,1,1,Real Bed,1098,2,392,31,f,f,flexible,f,f,3
+7238,6768,Caballito,Entire home/apt,4,8,5/31/20,0.53,1,143,3/28/17,f,1.0,1,1,Real Bed,490,1,0,1125,t,f,strict_14_with_grace_period,f,f,1
+9472,5675,Retiro,Entire home/apt,4,1,6/7/18,0.04,1,325,9/20/16,t,3.0,3,5,Real Bed,2092,1,0,30,f,f,strict_14_with_grace_period,f,f,4
+9302,4148,Recoleta,Entire home/apt,1,103,3/16/20,2.69,1,365,4/23/17,t,1.0,1,1,Real Bed,1744,1,0,1125,t,f,strict_14_with_grace_period,f,f,1
+7074,892,Palermo,Entire home/apt,3,55,1/20/20,0.7,1,267,11/25/12,t,1.0,1,1,Real Bed,1397,1,0,150,f,f,moderate,f,f,2
+8679,12770,Recoleta,Entire home/apt,14,5,3/4/20,0.9,1,261,11/26/19,t,1.0,0,1,Real Bed,768,2,559,180,f,f,moderate,f,f,2
+8493,4827,Villa Devoto,Entire home/apt,10,7,2/16/20,0.23,2,175,1/5/15,f,1.0,1,2,Real Bed,1679,1,700,35,f,f,moderate,f,f,2
+8279,7597,Villa Crespo,Entire home/apt,1,50,3/29/20,2.57,1,359,10/21/18,t,1.0,0,0,Real Bed,908,1,0,1125,t,f,moderate,f,f,2
+7161,4451,Balvanera,Entire home/apt,3,29,10/5/19,0.86,1,360,7/10/17,f,2.0,1,1,Real Bed,600,1,0,60,f,f,moderate,f,f,1
+8958,9896,Palermo,Private room,1,62,2/13/20,4.33,3,0,5/31/17,t,1.0,1,1,Real Bed,0,1,0,15,t,f,moderate,f,f,1
+6855,991,Saavedra,Entire home/apt,1,43,2/14/20,0.57,5,360,1/10/14,t,1.0,0,1,Real Bed,1399,1,0,1125,f,f,flexible,f,f,3
+8036,242,Balvanera,Entire home/apt,5,21,3/23/20,0.24,8,359,3/12/10,t,1.0,2,2,Real Bed,2804,2,701,1125,f,f,strict_14_with_grace_period,f,f,2
+9095,8533,Villa Real,Entire home/apt,3,4,4/5/19,0.23,1,0,8/7/14,f,1.0,1,1,Real Bed,0,1,0,1125,f,f,flexible,f,f,3
+9444,2386,Palermo,Entire home/apt,3,109,3/25/20,1.99,1,187,4/19/14,t,1.0,0,2,Real Bed,1048,3,698,1125,t,f,flexible,f,f,1
+6972,4641,Monserrat,Private room,1,73,2/12/20,2.34,1,360,5/21/16,t,1.5,1,2,Real Bed,0,1,0,20,f,f,moderate,f,f,1
+6655,11768,Monserrat,Entire home/apt,4,2,4/30/20,0.29,2,264,5/18/16,f,1.0,1,1,Real Bed,2444,1,1048,180,f,f,flexible,f,f,2
+7328,4344,Palermo,Entire home/apt,7,30,9/17/19,0.83,2,294,6/13/17,f,1.0,1,1,Real Bed,400,1,0,120,f,f,moderate,f,f,2
+8993,2900,Monserrat,Private room,1,2,12/3/17,0.05,2,359,4/4/16,f,1.0,1,1,Real Bed,0,2,1187,1125,f,f,flexible,f,f,4
+9163,3808,Belgrano,Entire home/apt,3,27,11/9/19,0.71,1,358,12/3/13,f,2.5,2,3,Real Bed,2274,4,0,1125,f,f,moderate,f,f,3
+8799,7739,Belgrano,Entire home/apt,30,4,3/31/20,0.29,1,51,10/29/15,f,1.0,1,1,Real Bed,559,2,978,1125,f,f,moderate,f,f,1
+7596,1157,Palermo,Entire home/apt,2,283,3/23/20,3.86,4,265,5/5/14,t,1.0,0,1,Real Bed,1048,1,0,180,t,f,strict_14_with_grace_period,f,f,3
+8103,9603,Retiro,Entire home/apt,2,18,3/26/20,1.25,1,176,11/22/14,f,1.0,2,4,Real Bed,700,3,800,60,f,f,flexible,f,f,1
+8357,4823,Villa Crespo,Entire home/apt,2,9,9/30/18,0.27,1,359,10/6/17,f,1.0,1,3,Real Bed,0,1,0,60,f,f,flexible,f,f,3
+8536,5289,Flores,Private room,1,1,2/16/18,0.04,1,0,12/31/17,f,2.0,1,2,Real Bed,0,1,300,90,f,f,moderate,f,f,1
+9145,11419,Palermo,Entire home/apt,5,13,3/11/20,1.39,4,84,8/9/19,f,1.0,0,3,Real Bed,1746,1,0,1125,t,f,strict_14_with_grace_period,f,f,2
+7143,5646,Chacarita,Entire home/apt,1,91,3/23/20,3.27,1,0,2/17/18,t,1.0,0,1,Real Bed,500,1,0,15,t,f,strict_14_with_grace_period,f,f,1
+6630,2865,Palermo,Entire home/apt,3,9,3/7/20,1.03,1,359,5/26/15,t,1.0,1,1,Real Bed,978,1,978,1125,t,f,flexible,f,f,2
+8304,3420,Recoleta,Entire home/apt,1,47,10/14/19,1.05,1,140,2/16/16,f,1.0,1,2,Real Bed,1325,2,697,1125,t,f,flexible,f,f,3
+9527,6335,Colegiales,Entire home/apt,1,10,9/16/19,0.47,1,359,6/9/18,f,1.0,1,1,Real Bed,0,2,1048,1125,f,f,flexible,f,f,2
+6890,10109,Palermo,Entire home/apt,3,14,5/7/20,1.21,2,234,2/28/14,f,2.0,2,2,Real Bed,5587,1,2793,30,t,f,flexible,f,f,3
+8967,5925,Palermo,Entire home/apt,7,1,5/14/18,0.04,1,83,4/9/18,f,1.0,1,1,Real Bed,800,1,0,180,f,f,flexible,f,f,1
+7343,2340,San Telmo,Entire home/apt,7,15,3/14/20,0.27,1,362,11/17/15,t,1.0,2,1,Real Bed,2362,2,787,365,f,f,strict_14_with_grace_period,f,f,1
+8428,1529,Palermo,Private room,2,19,6/18/17,0.29,7,362,4/25/14,t,1.0,1,1,Real Bed,0,1,0,1125,t,f,strict_14_with_grace_period,f,f,3
+9218,12982,Palermo,Entire home/apt,4,5,2/18/20,0.96,10,147,1/13/14,t,2.5,3,7,Real Bed,5579,1,0,1125,t,f,flexible,f,f,4
+7384,13134,Recoleta,Entire home/apt,1,6,2/28/20,1.05,5,89,8/28/19,t,1.0,0,2,Real Bed,1046,1,0,1125,f,f,strict_14_with_grace_period,f,f,3
+7292,8484,Almagro,Entire home/apt,2,7,6/30/19,0.4,1,83,9/17/17,f,1.0,1,1,Real Bed,1800,1,0,28,t,f,flexible,f,f,1
+9157,13597,Palermo,Entire home/apt,2,3,3/15/20,0.77,1,359,8/30/14,f,1.0,1,1,Real Bed,1397,1,0,370,f,f,strict_14_with_grace_period,f,f,3
+6872,4197,Coghlan,Entire home/apt,2,8,1/1/20,0.22,1,360,5/5/17,f,1.5,2,2,Real Bed,1050,2,700,14,t,f,flexible,f,f,3
+8040,4833,Palermo,Entire home/apt,7,142,3/16/20,4.32,1,0,10/8/17,f,1.0,0,1,Real Bed,976,1,0,180,f,f,moderate,f,f,1
+6560,10065,Palermo,Entire home/apt,4,29,3/15/20,2.18,1,89,5/7/11,t,1.0,1,1,Real Bed,558,1,0,90,f,f,flexible,f,f,3
+8080,13509,Palermo,Entire home/apt,2,5,3/16/20,1.22,1,359,5/26/18,f,1.0,0,1,Real Bed,1725,1,0,1125,t,f,strict_14_with_grace_period,f,f,3
+9325,10790,Constitución,Entire home/apt,14,3,10/31/19,0.25,28,360,5/22/16,f,1.0,1,2,Real Bed,2799,2,350,200,t,f,moderate,f,f,2
+7155,11873,Recoleta,Entire home/apt,14,6,1/29/20,0.69,18,179,11/3/15,f,1.5,3,4,Real Bed,1395,2,418,365,t,f,strict_14_with_grace_period,f,f,4
+8025,1580,Balvanera,Entire home/apt,1,7,7/14/16,0.13,2,0,5/26/14,f,1.0,1,3,Real Bed,488,1,349,8,f,f,flexible,f,f,1
+7436,8188,Palermo,Entire home/apt,3,10,2/25/20,0.56,1,0,2/21/18,f,1.0,1,2,Real Bed,837,3,697,60,t,f,moderate,f,f,3
+9143,11156,Palermo,Entire home/apt,2,19,12/9/19,1.71,1,0,7/18/19,t,1.0,1,3,Real Bed,300,1,0,1125,t,f,moderate,f,f,2
+6523,13401,Palermo,Entire home/apt,14,2,3/11/20,0.52,1,264,1/15/20,f,1.0,1,1,Real Bed,698,1,0,1125,t,f,strict_14_with_grace_period,f,f,1
+8598,1302,Palermo,Entire home/apt,7,22,8/28/19,0.34,1,364,6/15/14,f,1.0,2,3,Real Bed,2092,4,1744,1125,f,f,flexible,f,f,4
+7406,2112,Palermo,Entire home/apt,1,3,3/17/16,0.05,1,89,9/2/15,f,2.0,2,2,Real Bed,697,3,1744,1125,f,f,flexible,f,f,4
+9115,10537,Recoleta,Entire home/apt,3,17,3/15/20,1.51,6,165,11/3/12,t,2.0,2,4,Real Bed,2790,1,0,100,t,f,moderate,f,f,4
+8398,10441,Retiro,Entire home/apt,3,8,4/13/20,0.63,1,331,6/3/11,t,1.0,1,2,Real Bed,0,1,0,1125,t,f,flexible,f,f,3
+9562,13014,Palermo,Entire home/apt,3,7,3/4/20,1.13,20,178,4/2/14,f,1.0,0,1,Real Bed,2441,1,0,1125,t,f,moderate,f,f,3
+9259,10696,San Telmo,Entire home/apt,2,19,3/13/20,1.62,3,231,2/23/13,t,1.0,1,2,Real Bed,499,1,349,60,t,f,flexible,f,f,2
+7169,6293,San Nicolás,Entire home/apt,2,39,7/30/19,1.73,1,361,6/4/18,t,1.0,1,2,Real Bed,0,2,701,120,f,f,strict_14_with_grace_period,f,f,3
+7661,4078,Agronomía,Private room,1,15,12/24/19,0.4,4,327,4/6/16,t,2.0,1,1,Real Bed,790,1,790,29,t,f,moderate,f,f,2
+9581,13782,Palermo,Entire home/apt,5,3,4/9/20,0.94,2,173,11/24/15,f,1.0,1,2,Real Bed,1397,1,0,1125,f,f,moderate,f,f,1
+6803,1975,Retiro,Entire home/apt,4,8,11/18/19,0.15,24,176,8/5/12,f,1.0,1,1,Real Bed,2452,1,0,1125,f,f,strict_14_with_grace_period,f,f,4
+8617,12384,Belgrano,Entire home/apt,2,1,12/8/19,0.15,1,84,5/1/18,f,1.0,1,2,Real Bed,1048,1,0,1125,f,f,strict_14_with_grace_period,f,f,2
+6944,11604,Palermo,Entire home/apt,7,18,3/16/20,1.87,14,176,8/6/13,t,1.0,0,1,Real Bed,1261,1,0,90,f,f,flexible,f,f,2
+8953,9295,Villa General Mitre,Private room,1,2,9/16/19,0.13,1,360,1/10/17,f,1.0,1,1,Real Bed,0,1,350,10,f,f,flexible,f,f,1
+7785,3609,Retiro,Entire home/apt,3,84,3/6/20,1.94,9,175,6/29/11,t,1.0,1,1,Real Bed,1399,1,0,30,f,f,strict_14_with_grace_period,f,f,3
+6917,1349,Palermo,Entire home/apt,6,25,4/30/20,0.44,3,293,9/14/14,f,1.0,1,2,Real Bed,2092,1,2092,365,f,f,strict_14_with_grace_period,f,f,2
+6589,979,Monserrat,Entire home/apt,7,10,4/11/20,0.14,2,360,1/21/14,f,1.0,1,4,Real Bed,2099,1,0,90,f,f,moderate,f,f,2
+8099,6176,Retiro,Entire home/apt,1,54,3/8/20,2.17,3,365,6/15/14,t,1.0,1,1,Real Bed,2092,1,0,1125,t,f,strict_14_with_grace_period,f,f,3
+9574,6981,Palermo,Entire home/apt,1,3,1/18/19,0.14,1,141,8/30/18,f,2.5,1,1,Real Bed,838,1,0,1125,t,f,flexible,f,f,4
+8291,1866,Villa Crespo,Private room,1,9,3/10/20,0.15,2,359,5/29/15,t,1.0,1,2,Real Bed,0,1,349,200,f,f,moderate,f,f,2
+7371,8264,Constitución,Entire home/apt,14,5,2/19/20,0.28,28,360,5/22/16,f,1.0,1,2,Real Bed,2799,2,350,200,t,f,moderate,f,f,2
+8741,12542,Almagro,Entire home/apt,14,4,3/17/20,0.58,18,84,11/3/15,f,1.0,2,2,Real Bed,1257,2,349,365,t,f,moderate,f,f,3
+6936,6078,Chacarita,Entire home/apt,2,6,1/26/20,0.29,1,359,8/5/14,f,1.0,1,1,Real Bed,1331,1,0,1125,f,f,strict_14_with_grace_period,f,f,2
+7497,12967,Palermo,Entire home/apt,3,2,1/2/20,0.34,6,188,5/15/19,t,1.0,1,1,Real Bed,2095,2,1048,1125,t,f,moderate,f,f,4
+8941,6595,Colegiales,Entire home/apt,30,10,3/8/20,0.5,3,179,11/9/12,t,1.0,0,2,Real Bed,1395,2,0,60,f,f,flexible,f,f,1
+7844,12771,Villa Crespo,Entire home/apt,3,3,2/29/20,0.47,1,84,11/26/19,f,1.0,1,1,Real Bed,784,1,0,10,f,f,strict_14_with_grace_period,f,f,4
+8782,12143,San Telmo,Entire home/apt,3,8,3/14/20,1.39,1,0,9/7/18,f,1.0,1,2,Real Bed,1046,1,0,1125,t,f,flexible,f,f,3
+6688,12678,Palermo,Entire home/apt,3,6,2/22/20,0.89,1,313,11/19/19,f,1.0,1,1,Real Bed,698,1,0,30,t,f,moderate,f,f,3
+7396,10843,Recoleta,Entire home/apt,3,30,3/13/20,2.6,1,348,2/19/15,t,1.5,1,1,Real Bed,1046,1,0,1125,f,f,strict_14_with_grace_period,f,f,2
+7104,455,San Telmo,Private room,7,24,12/19/19,0.26,22,359,12/10/12,t,3.5,1,1,Real Bed,1048,1,349,1125,t,f,flexible,f,f,1
+7028,3154,Palermo,Shared room,1,15,2/8/20,0.32,2,179,2/23/12,f,1.0,1,2,Real Bed,558,1,558,15,f,f,flexible,t,t,1
+8206,13156,Balvanera,Entire home/apt,1,4,3/9/20,0.75,1,2,12/25/19,f,1.5,1,1,Real Bed,0,1,0,4,f,f,strict_14_with_grace_period,f,f,3
+8962,196,Palermo,Entire home/apt,1,44,3/2/20,0.62,14,361,8/23/11,f,4.5,6,9,Real Bed,13311,14,2802,365,t,f,strict_14_with_grace_period,f,f,4
+7689,3446,Balvanera,Entire home/apt,3,1,11/21/17,0.03,4,154,10/5/16,f,1.0,0,2,Real Bed,950,2,500,30,t,f,flexible,f,f,1
+7926,11939,Palermo,Entire home/apt,1,2,12/22/19,0.24,5,359,8/1/19,f,1.0,1,1,Real Bed,1397,1,0,1125,t,f,flexible,f,f,4
+7251,3437,Villa Urquiza,Entire home/apt,30,4,8/28/17,0.1,1,175,3/22/16,f,2.0,3,3,Real Bed,2500,4,2500,1125,f,f,strict_14_with_grace_period,f,f,3
+6770,2538,Parque Patricios,Private room,1,12,12/7/19,0.35,1,265,7/29/15,f,1.0,1,1,Real Bed,1959,1,1749,1125,f,f,moderate,f,f,1
+6945,1807,Almagro,Entire home/apt,3,14,11/30/18,0.32,1,174,1/23/15,f,1.0,0,0,Real Bed,2793,1,0,180,f,f,moderate,f,f,2
+6757,8793,Saavedra,Entire home/apt,3,10,10/17/19,0.6,2,173,11/4/16,t,2.0,1,1,Real Bed,1399,1,0,10,f,f,moderate,f,f,2
+7202,13591,Palermo,Entire home/apt,7,2,3/9/20,0.5,4,297,3/14/16,t,1.5,1,0,Real Bed,1962,1,0,365,t,f,strict_14_with_grace_period,f,f,2
+7438,1532,San Nicolás,Entire home/apt,6,10,2/20/20,0.21,1,146,12/20/14,t,1.0,1,2,Real Bed,1052,2,0,1125,f,f,moderate,f,f,1
+9252,2045,Palermo,Entire home/apt,2,33,9/25/19,1.74,1,0,12/16/14,t,3.0,3,4,Real Bed,4207,1,0,1125,f,f,strict_14_with_grace_period,f,f,4
+7669,11972,Recoleta,Entire home/apt,2,5,1/26/20,0.6,5,179,4/11/19,t,1.0,1,0,Real Bed,1046,1,0,60,f,f,flexible,f,f,3
+7419,12249,Recoleta,Entire home/apt,2,6,2/25/20,0.78,1,0,4/13/15,f,1.0,1,2,Real Bed,1051,3,1051,6,t,f,moderate,f,f,3
+7677,8672,Núñez,Entire home/apt,4,24,2/26/20,1.44,1,264,5/15/14,t,1.0,1,2,Real Bed,1397,2,0,30,t,f,moderate,f,f,3
+6616,4798,San Nicolás,Entire home/apt,2,38,2/29/20,1.23,3,341,2/24/11,t,1.0,1,1,Real Bed,1327,2,349,150,f,f,flexible,f,f,2
+6550,6937,San Nicolás,Entire home/apt,2,5,11/1/19,0.49,1,180,4/30/18,f,1.5,1,2,Real Bed,250,1,0,15,t,f,flexible,f,f,2
+8149,8189,Palermo,Entire home/apt,3,1,1/2/20,0.17,2,83,9/11/13,f,1.0,1,1,Real Bed,980,2,0,14,f,f,moderate,f,f,2
+7264,2310,Palermo,Entire home/apt,3,114,3/30/20,2.05,1,365,11/10/15,t,1.0,1,1,Real Bed,1395,2,0,90,t,f,flexible,f,f,4
+8106,2043,Palermo,Entire home/apt,3,84,3/16/20,1.6,2,360,3/19/15,f,1.0,1,2,Real Bed,1395,1,0,90,f,f,strict_14_with_grace_period,f,f,3
+8921,11977,Palermo,Entire home/apt,7,4,2/28/20,0.52,2,360,7/28/13,t,1.5,1,1,Real Bed,840,2,700,1125,f,f,moderate,f,f,3
+6973,8010,Retiro,Entire home/apt,1,31,3/18/20,2.03,2,193,11/22/18,t,2.0,2,2,Real Bed,2790,4,0,90,t,f,strict_14_with_grace_period,f,f,4
+7063,12112,Belgrano,Private room,2,8,1/1/20,0.94,2,360,10/4/15,t,1.0,1,2,Real Bed,700,2,0,92,t,f,moderate,f,f,1
+8083,10999,Belgrano,Entire home/apt,2,9,11/13/19,0.8,1,359,7/4/19,t,1.0,1,1,Real Bed,698,1,0,30,f,f,moderate,f,f,3
+7998,6748,Recoleta,Private room,3,2,7/31/19,0.15,3,362,12/26/13,f,1.0,1,1,Real Bed,701,1,701,1125,f,f,moderate,f,f,1
+6996,4143,Almagro,Entire home/apt,4,7,12/13/19,0.27,4,359,2/9/17,f,1.0,4,4,Real Bed,2444,3,559,90,f,f,strict_14_with_grace_period,f,f,4
+6568,13207,Palermo,Entire home/apt,5,3,3/7/20,0.66,1,0,12/30/19,f,1.0,1,1,Real Bed,558,2,0,90,f,f,strict_14_with_grace_period,f,f,2
+6792,7898,Retiro,Private room,4,2,4/12/19,0.1,28,344,6/1/18,f,1.0,1,2,Real Bed,837,2,0,180,t,f,flexible,f,f,2
+8853,4864,Recoleta,Entire home/apt,1,64,4/26/20,1.99,7,302,9/6/16,t,1.0,0,1,Real Bed,1395,2,349,365,t,f,flexible,f,f,2
+7580,10495,San Telmo,Private room,30,8,4/5/20,0.66,7,64,3/31/15,f,3.0,1,1,Real Bed,489,1,0,150,f,f,strict_14_with_grace_period,f,f,1
+9595,13142,Recoleta,Entire home/apt,2,12,3/15/20,2.05,1,0,12/23/19,t,1.5,3,5,Real Bed,697,1,0,1125,f,f,flexible,f,f,4
+7291,9990,Recoleta,Entire home/apt,3,16,1/28/20,1.13,3,365,9/21/18,f,1.0,1,1,Real Bed,1046,1,418,60,t,f,flexible,f,f,1
+8137,222,Recoleta,Entire home/apt,14,177,1/4/20,1.77,16,277,2/7/12,t,1.0,1,2,Real Bed,2103,2,351,1125,f,f,strict_14_with_grace_period,t,t,1
+6732,36,Retiro,Entire home/apt,30,5,10/12/18,0.06,4,364,12/16/10,t,1.5,3,3,Real Bed,3487,1,0,365,f,f,strict_14_with_grace_period,f,f,4
+8421,5786,San Nicolás,Entire home/apt,2,16,2/25/20,0.61,1,179,3/20/18,f,1.0,2,2,Real Bed,1046,2,488,30,t,f,flexible,f,f,1
+7435,12571,Recoleta,Entire home/apt,1,4,2/26/20,0.62,1,0,9/21/11,f,1.5,3,4,Real Bed,900,1,0,1125,t,f,moderate,f,f,4
+8836,4361,Palermo,Entire home/apt,14,126,2/25/20,3.46,10,86,4/15/14,t,1.0,1,3,Real Bed,911,2,351,1125,f,f,strict_14_with_grace_period,f,f,2
+6628,1838,Palermo,Private room,2,87,2/15/20,2.7,4,143,5/18/15,t,1.5,1,1,Real Bed,701,1,350,1125,t,f,moderate,f,f,2
+8977,10288,Caballito,Entire home/apt,4,15,3/2/20,1.12,1,111,5/12/19,f,1.0,1,1,Real Bed,1539,2,700,30,f,f,moderate,f,f,1
+7426,2556,Palermo,Private room,3,71,3/15/20,1.38,2,79,9/2/14,f,1.0,1,0,Real Bed,1050,1,0,90,f,f,moderate,f,f,1
+7900,8160,Villa Crespo,Entire home/apt,1,136,3/18/20,7.25,1,174,3/11/18,t,1.5,1,1,Real Bed,0,1,0,1125,f,f,moderate,f,f,2
+9383,1281,Villa Crespo,Entire home/apt,10,29,2/23/20,0.42,1,50,8/4/14,f,1.0,0,1,Real Bed,3487,1,0,1125,f,f,strict_14_with_grace_period,f,f,2
+7808,6055,Palermo,Entire home/apt,1,37,3/2/20,1.44,6,357,4/18/17,f,1.0,1,2,Real Bed,450,1,500,27,t,f,strict_14_with_grace_period,f,f,2
+8400,9446,San Nicolás,Entire home/apt,2,15,1/31/20,1.26,14,2,1/31/14,t,1.0,1,3,Real Bed,1402,1,0,30,f,f,strict_14_with_grace_period,f,f,1
+8355,6490,Recoleta,Entire home/apt,7,8,7/28/19,0.38,1,363,8/2/12,f,1.0,1,1,Real Bed,1744,1,0,1125,f,f,moderate,f,f,2
+8657,8036,Recoleta,Entire home/apt,30,3,1/4/20,0.18,1,359,2/9/17,f,1.0,1,1,Real Bed,949,1,0,1125,f,f,flexible,f,f,3
+8925,5673,Almagro,Private room,2,38,11/18/19,1.37,3,91,2/2/17,t,2.5,1,1,Real Bed,362,1,400,60,t,f,flexible,f,f,1
+8832,12550,Recoleta,Entire home/apt,3,19,4/30/20,2.85,1,160,11/7/19,t,1.0,0,1,Real Bed,1331,1,0,90,f,f,flexible,f,f,2
+8308,3890,Palermo,Entire home/apt,3,5,7/31/17,0.13,9,84,2/1/16,f,1.0,0,1,Real Bed,2444,3,1048,518,t,f,strict_14_with_grace_period,f,f,3
+8085,1019,Caballito,Private room,1,30,4/22/19,0.47,3,0,2/16/14,f,2.0,3,4,Real Bed,0,1,1423,1125,t,f,strict_14_with_grace_period,f,f,2
+9441,256,Retiro,Entire home/apt,5,99,1/31/20,1.31,4,365,4/16/12,f,1.0,1,2,Real Bed,600,2,300,365,f,f,strict_14_with_grace_period,f,f,1
+7875,12070,Retiro,Entire home/apt,3,6,2/25/20,0.71,1,84,4/3/15,t,1.5,3,5,Real Bed,2793,1,0,15,f,f,strict_14_with_grace_period,f,f,4
+8835,11356,Recoleta,Entire home/apt,1,22,4/2/20,2.11,1,131,8/3/19,f,1.0,1,1,Real Bed,1000,1,400,1125,t,f,strict_14_with_grace_period,f,f,1
+8807,8151,Almagro,Entire home/apt,3,34,1/30/20,1.8,1,111,8/12/18,t,1.0,1,2,Real Bed,700,1,0,45,t,f,flexible,f,f,2
+6641,10979,Palermo,Entire home/apt,2,17,3/15/20,2.01,1,177,2/17/18,t,2.0,1,1,Real Bed,0,2,1883,45,f,f,moderate,f,f,3
+7660,12171,Palermo,Entire home/apt,3,8,5/22/20,0.97,2,359,12/8/18,f,1.0,1,1,Real Bed,616,1,0,1125,t,f,flexible,f,f,2
+8651,5611,Recoleta,Entire home/apt,7,30,3/17/20,1.09,7,364,4/9/17,f,1.0,0,1,Real Bed,1255,1,0,30,f,f,moderate,f,f,2
+9273,12847,Recoleta,Entire home/apt,2,7,2/27/20,1.12,4,224,3/27/13,f,1.0,2,4,Real Bed,1395,3,488,1125,t,f,moderate,t,t,3
+9445,10630,Palermo,Entire home/apt,2,23,4/14/20,1.87,23,362,5/5/11,f,1.0,1,1,Real Bed,2103,2,0,1125,t,f,flexible,f,f,3
+6786,13169,Palermo,Entire home/apt,1,3,4/15/20,0.53,1,357,12/21/19,f,3.0,3,4,Real Bed,3492,2,349,1125,f,f,strict_14_with_grace_period,f,f,4
+9135,8889,Recoleta,Entire home/apt,90,1,8/18/19,0.1,1,176,11/4/16,f,1.0,2,4,Real Bed,1491,4,0,180,f,f,flexible,f,f,2
+6577,5548,Palermo,Entire home/apt,5,1,3/1/18,0.04,1,0,4/18/14,f,1.0,1,1,Real Bed,600,1,0,10,t,f,flexible,f,f,4
+8463,11059,Recoleta,Entire home/apt,12,2,12/5/19,0.21,3,117,3/19/19,t,2.0,2,3,Real Bed,0,1,0,1125,f,f,moderate,f,f,3
+6598,4354,Almagro,Entire home/apt,2,55,3/15/20,1.53,1,186,3/18/17,t,1.0,1,1,Real Bed,800,1,0,30,f,f,flexible,f,f,1
+8800,3054,Caballito,Entire home/apt,1,21,12/2/19,0.44,1,0,12/8/14,f,1.0,1,1,Real Bed,600,1,0,5,f,f,flexible,f,f,1
+9214,9677,Chacarita,Entire home/apt,2,10,2/12/20,0.78,3,362,3/24/19,f,0.0,0,2,Real Bed,1683,1,0,1125,t,f,flexible,f,f,3
+7706,8531,Palermo,Entire home/apt,2,20,3/17/20,2.5,1,124,1/7/17,f,1.0,0,2,Real Bed,908,1,0,365,t,f,strict_14_with_grace_period,f,f,2
+9373,3207,San Nicolás,Private room,3,23,3/31/20,0.75,1,0,6/20/16,t,1.0,1,1,Real Bed,605,1,445,1125,t,f,moderate,f,f,1
+9278,278,Palermo,Entire home/apt,2,133,3/15/20,1.39,1,358,5/13/12,t,4.0,4,0,Real Bed,0,9,1395,1125,t,f,flexible,f,f,4
+8167,3908,Recoleta,Entire home/apt,28,41,1/22/20,1.01,2,364,11/14/15,f,1.0,0,3,Real Bed,1744,1,0,365,t,f,moderate,f,f,4
+6668,13181,Recoleta,Entire home/apt,3,3,3/2/20,0.5,1,81,12/27/19,f,1.0,1,1,Real Bed,0,1,0,60,t,f,moderate,f,f,2
+7353,5813,Palermo,Entire home/apt,2,15,2/27/20,0.57,3,325,10/31/15,t,2.5,1,2,Real Bed,3487,1,2790,1125,t,f,strict_14_with_grace_period,f,f,4
+7199,9569,Palermo,Private room,1,19,2/11/20,1.26,7,253,1/3/17,t,1.0,1,1,Real Bed,0,2,0,1125,t,f,strict_14_with_grace_period,f,f,1
+8159,4800,Recoleta,Entire home/apt,4,18,2/27/20,0.55,1,362,8/16/15,t,1.0,1,1,Real Bed,3155,1,0,1125,f,f,flexible,f,f,2
+9486,7807,Parque Chacabuco,Private room,2,2,1/31/19,0.11,1,360,11/5/18,f,1.5,1,1,Real Bed,0,1,420,10,t,f,flexible,f,f,1
+6796,8563,Recoleta,Entire home/apt,3,30,3/16/20,1.71,17,359,10/15/12,f,1.0,0,1,Real Bed,697,1,0,180,t,f,flexible,t,t,3
+9572,2782,Palermo,Entire home/apt,3,14,6/5/19,0.29,46,359,12/7/11,f,1.0,0,1,Real Bed,698,1,698,1125,f,f,flexible,f,f,2
+8181,1436,Palermo,Entire home/apt,7,1,2/25/16,0.02,1,0,11/6/14,f,1.0,1,1,Real Bed,1395,1,0,185,f,f,strict_14_with_grace_period,f,f,4
+9019,1133,San Telmo,Private room,6,5,4/12/19,0.07,10,231,12/11/12,t,1.0,1,1,Real Bed,0,1,0,1125,f,f,strict_14_with_grace_period,f,f,3
+6707,5686,Palermo,Private room,4,30,2/14/20,1.08,2,0,6/19/16,f,1.0,1,1,Real Bed,0,1,697,15,f,f,flexible,f,f,1
+6516,1731,Recoleta,Entire home/apt,3,85,1/19/20,1.35,8,350,2/10/14,f,3.5,5,10,Real Bed,8369,11,2092,1125,f,f,strict_14_with_grace_period,f,f,4
+8202,9870,Palermo,Entire home/apt,3,3,10/20/19,0.22,1,0,5/23/16,f,1.5,1,1,Real Bed,1325,1,0,1125,t,f,strict_14_with_grace_period,f,f,4
+6806,473,San Telmo,Entire home/apt,7,5,12/23/19,0.06,10,254,12/11/12,t,1.0,4,5,Real Bed,0,1,0,150,t,f,strict_14_with_grace_period,f,f,4
+7424,6946,San Telmo,Entire home/apt,2,44,2/25/20,2.01,1,84,7/30/17,f,1.0,1,1,Real Bed,1397,2,559,1125,f,f,moderate,f,f,3
+6562,11925,Constitución,Entire home/apt,5,24,3/25/20,2.72,1,297,9/19/19,t,1.0,1,2,Real Bed,1329,1,0,90,f,f,moderate,f,f,2
+7045,270,Recoleta,Private room,1,107,10/14/19,1.13,3,365,5/2/12,f,1.5,1,1,Real Bed,1403,1,0,90,f,f,moderate,t,f,1
+8650,5991,Palermo,Entire home/apt,1,4,11/6/18,0.16,1,0,4/15/15,f,1.0,1,2,Real Bed,3487,1,0,7,f,f,moderate,f,f,3
+7734,3443,Palermo,Entire home/apt,3,23,12/23/18,0.53,1,138,5/22/15,f,1.5,1,1,Real Bed,1749,1,0,360,t,f,moderate,f,f,4
+6738,11601,Palermo,Entire home/apt,3,7,1/14/20,0.77,91,307,9/4/12,f,1.0,0,3,Real Bed,0,1,0,1125,f,f,moderate,f,f,4
+9272,10602,Balvanera,Entire home/apt,180,1,6/7/19,0.08,3,358,5/27/19,f,1.0,1,1,Real Bed,1539,1,350,900,t,f,flexible,f,f,2
+8902,12551,San Telmo,Entire home/apt,5,1,12/29/19,0.17,1,175,2/3/18,f,1.0,1,3,Real Bed,0,3,0,1125,t,f,moderate,f,f,4
+8076,838,Palermo,Entire home/apt,7,5,12/21/19,0.09,15,352,2/1/11,t,2.5,3,4,Real Bed,8369,1,0,1000,f,f,strict_14_with_grace_period,f,f,4
+7150,5070,Recoleta,Entire home/apt,1,1,11/29/17,0.03,1,0,11/22/17,f,1.0,1,1,Real Bed,150,1,0,1125,t,f,flexible,f,f,1
+9267,5641,Monserrat,Private room,30,2,10/1/19,0.08,22,360,12/10/12,t,2.0,1,1,Real Bed,1050,1,350,1125,f,f,flexible,f,f,1
+7484,9750,Retiro,Entire home/apt,2,1,5/6/19,0.07,1,358,5/3/13,f,1.0,1,4,Real Bed,698,1,698,1125,t,f,strict_14_with_grace_period,f,f,4
+6685,575,Palermo,Entire home/apt,2,189,3/9/20,2.39,1,313,1/31/13,t,1.0,0,1,Real Bed,3143,2,698,1125,t,f,flexible,f,t,4
+7968,1145,Balvanera,Private room,20,1,11/29/18,0.05,6,359,4/18/14,f,3.0,1,1,Real Bed,0,1,0,1125,t,f,flexible,f,f,1
+7354,13149,Núñez,Entire home/apt,4,6,3/25/20,1.07,1,345,12/24/19,f,1.0,0,2,Real Bed,840,2,1050,30,f,f,moderate,f,f,1
+7971,12146,Caballito,Entire home/apt,3,5,2/2/20,0.62,1,110,10/8/19,f,1.0,2,3,Real Bed,950,5,0,89,t,f,strict_14_with_grace_period,f,f,2
+6862,287,Saavedra,Private room,1,7,8/1/18,0.2,3,0,5/28/12,f,3.0,1,2,Real Bed,1046,1,767,125,f,f,flexible,f,f,3
+6509,8173,Liniers,Entire home/apt,7,2,6/5/19,0.11,1,359,11/24/18,f,1.0,1,2,Real Bed,0,1,790,30,t,f,moderate,f,f,2
+8817,1887,Palermo,Entire home/apt,2,19,9/30/19,0.32,11,365,6/5/15,f,1.5,1,1,Real Bed,2441,1,0,180,f,f,strict_14_with_grace_period,f,f,4
+6654,3777,Villa Crespo,Entire home/apt,4,64,4/30/20,1.59,1,180,2/12/14,t,1.0,1,1,Real Bed,600,1,0,180,t,f,strict_14_with_grace_period,f,f,1
+7919,13379,San Nicolás,Entire home/apt,3,4,3/16/20,0.79,2,335,5/22/14,f,1.0,1,2,Real Bed,1116,1,0,1125,t,f,moderate,f,f,2
+9555,7685,Recoleta,Private room,5,12,3/23/20,0.61,1,359,8/3/16,f,1.0,1,1,Real Bed,698,1,0,60,t,f,strict_14_with_grace_period,f,f,1
+8964,1068,Palermo,Entire home/apt,7,27,3/1/20,0.36,2,363,1/10/14,t,1.0,1,1,Real Bed,2092,1,0,360,f,f,moderate,f,f,3
+8678,12316,La Boca,Entire home/apt,1,7,2/9/20,0.93,1,360,10/21/19,f,1.5,1,2,Real Bed,700,1,0,1125,t,f,moderate,f,f,3
+6778,1930,Palermo,Hotel room,1,3,7/4/18,0.06,4,356,6/24/15,f,1.0,1,5,Real Bed,0,2,1046,1125,t,f,moderate,f,f,4
+8826,8003,Retiro,Entire home/apt,3,15,1/4/20,0.83,2,180,4/14/14,f,1.0,0,1,Real Bed,1813,1,0,30,f,f,moderate,f,f,2
+9488,404,Monserrat,Entire home/apt,5,19,1/3/20,0.21,8,329,3/12/10,t,2.0,10,4,Real Bed,3492,4,1397,1125,f,f,strict_14_with_grace_period,f,f,3
+8763,2434,Puerto Madero,Entire home/apt,5,10,12/1/18,0.19,1,360,7/9/13,f,1.5,1,1,Real Bed,4198,1,0,1125,f,f,strict_14_with_grace_period,f,f,4
+8016,10665,Palermo,Entire home/apt,2,10,5/3/20,0.97,2,269,6/9/19,t,1.0,1,1,Real Bed,2092,1,0,100,t,f,moderate,f,f,3
+7893,12334,Recoleta,Entire home/apt,1,15,3/8/20,2.2,2,89,10/22/19,f,1.0,0,3,Real Bed,1046,1,0,90,f,f,strict_14_with_grace_period,f,f,3
+6538,5900,Balvanera,Entire home/apt,1,8,8/25/18,0.3,4,359,10/2/17,t,1.0,0,3,Real Bed,1397,1,0,1125,t,f,moderate,f,f,3
+9599,9546,Palermo,Entire home/apt,2,14,2/21/20,0.95,17,180,2/5/19,t,1.0,0,1,Real Bed,2092,1,0,90,t,f,strict_14_with_grace_period,f,f,3
+6818,5890,Palermo,Private room,1,1,4/12/18,0.04,1,0,9/8/13,f,1.0,2,2,Real Bed,500,1,0,25,t,f,flexible,f,f,1
+6771,6566,San Nicolás,Entire home/apt,2,5,9/25/18,0.21,5,365,7/22/17,f,1.0,1,3,Real Bed,800,3,420,90,t,f,strict_14_with_grace_period,f,f,2
+7106,9137,Monserrat,Entire home/apt,7,41,3/9/20,2.84,1,21,3/7/15,t,1.0,1,2,Real Bed,700,2,490,1125,t,f,flexible,f,f,2
+7527,5802,Villa Ortúzar,Private room,2,5,11/10/19,0.19,3,179,10/3/13,f,2.0,1,1,Real Bed,350,1,0,1125,t,f,moderate,f,f,1
+9612,5687,Recoleta,Entire home/apt,2,111,3/14/20,4.07,2,180,3/5/18,t,1.0,1,2,Real Bed,2092,1,0,35,t,f,moderate,f,f,4
+8992,7474,Palermo,Entire home/apt,2,12,12/11/19,0.62,1,359,10/10/18,f,1.0,1,2,Real Bed,882,2,1153,90,f,f,strict_14_with_grace_period,f,f,1
+8127,11189,Palermo,Entire home/apt,1,4,11/30/19,0.47,1,357,7/8/18,f,1.0,1,1,Real Bed,1257,1,0,1125,t,f,flexible,f,f,3
+8789,6641,Saavedra,Private room,15,2,9/20/18,0.09,1,0,7/23/18,f,1.0,1,2,Real Bed,700,2,700,90,f,f,flexible,f,f,1
+9506,7784,Monserrat,Entire home/apt,2,54,1/6/20,2.74,1,85,5/24/16,t,1.0,1,1,Real Bed,0,1,0,1125,t,f,moderate,f,f,2
+6946,10732,Palermo,Entire home/apt,3,15,3/17/20,1.96,1,0,11/9/16,t,1.0,1,1,Real Bed,1744,1,0,20,f,f,moderate,f,f,4
+6686,6174,Recoleta,Entire home/apt,2,21,2/29/20,0.85,2,114,7/30/17,f,1.0,1,2,Real Bed,698,2,419,30,t,f,flexible,f,f,1
+8684,9721,Palermo,Entire home/apt,3,11,3/2/20,0.77,1,90,7/23/17,f,1.0,1,1,Real Bed,900,1,0,120,t,f,moderate,f,f,2
+9509,8766,Recoleta,Entire home/apt,7,4,2/5/20,0.3,60,178,5/29/14,f,1.0,0,0,Real Bed,697,1,0,1125,t,f,flexible,f,f,2
+7185,6996,San Telmo,Entire home/apt,2,29,3/2/20,1.41,1,0,11/21/15,t,1.5,1,2,Real Bed,0,2,697,15,f,f,flexible,f,f,2
+6978,12153,Retiro,Entire home/apt,1,14,3/14/20,1.65,2,355,7/16/15,t,1.0,1,1,Real Bed,2095,1,0,1125,t,f,flexible,f,f,2
+9303,4788,Recoleta,Entire home/apt,1,92,3/3/20,2.88,2,354,9/27/17,f,1.0,2,3,Real Bed,698,4,0,1125,t,f,strict_14_with_grace_period,f,f,3
+7872,1248,San Nicolás,Entire home/apt,2,276,3/6/20,3.84,5,363,7/2/14,t,1.0,2,3,Real Bed,2092,1,0,1125,t,f,strict_14_with_grace_period,f,f,3
+8299,13712,Recoleta,Entire home/apt,2,2,6/1/20,0.74,3,171,8/3/11,f,1.0,0,2,Real Bed,698,1,0,30,t,f,flexible,f,f,2
+6551,6290,Almagro,Entire home/apt,2,10,3/30/20,0.45,2,358,2/10/14,t,1.0,1,2,Real Bed,2099,2,0,180,t,f,strict_14_with_grace_period,f,f,2
+9643,1327,Palermo,Entire home/apt,30,3,1/9/18,0.06,7,90,2/6/13,f,1.0,2,2,Real Bed,2339,1,0,180,f,f,strict_14_with_grace_period,f,f,4
+7345,2917,Recoleta,Entire home/apt,180,1,6/21/16,0.02,1,364,5/22/13,f,1.0,1,1,Real Bed,0,1,0,360,f,f,moderate,f,f,3
+7901,3806,San Telmo,Entire home/apt,1,58,8/25/19,1.39,1,326,1/18/17,t,1.0,1,1,Real Bed,200,1,0,1125,f,f,strict_14_with_grace_period,f,f,1
+7972,8746,Retiro,Private room,4,28,1/23/20,1.64,28,344,6/1/18,f,1.0,1,2,Real Bed,837,2,0,180,t,f,flexible,f,f,2
+8572,132,Palermo,Entire home/apt,60,108,3/8/20,1.04,2,83,8/3/11,f,1.0,1,1,Real Bed,2092,2,0,90,f,f,flexible,t,t,1
+7719,13168,Recoleta,Entire home/apt,1,5,3/10/20,1.09,5,270,10/2/16,t,1.0,1,1,Real Bed,1534,3,1744,1125,t,f,strict_14_with_grace_period,f,f,2
+7831,10276,Recoleta,Entire home/apt,3,7,4/16/20,0.94,1,89,11/3/16,f,1.0,1,1,Real Bed,2790,1,0,30,f,f,strict_14_with_grace_period,f,f,4
+7253,6049,Recoleta,Private room,5,1,3/1/19,0.06,6,0,1/13/14,t,3.5,0,0,Real Bed,500,1,281,1125,f,f,flexible,f,f,1
+8224,7982,Palermo,Entire home/apt,5,2,3/1/20,0.33,4,191,3/3/11,f,2.0,2,3,Real Bed,1746,2,1746,1125,f,f,flexible,f,t,3
+7038,11392,Villa Crespo,Entire home/apt,4,32,3/12/20,3.0,3,3,10/23/16,t,1.0,1,2,Real Bed,1397,4,349,365,f,f,strict_14_with_grace_period,f,f,1
+7390,5979,Palermo,Entire home/apt,1,59,7/14/19,2.24,1,82,6/29/17,f,1.0,1,1,Real Bed,0,1,0,1125,t,f,strict_14_with_grace_period,f,f,2
+6772,9717,Núñez,Entire home/apt,3,5,12/9/19,0.36,27,0,9/14/15,f,1.0,1,1,Real Bed,500,1,0,180,f,f,strict_14_with_grace_period,f,f,2
+7783,8277,Villa Crespo,Private room,2,8,3/6/20,1.09,1,359,12/11/18,f,1.5,1,1,Real Bed,0,1,629,90,t,f,flexible,f,f,1
+6640,7167,Recoleta,Entire home/apt,1,6,11/16/19,0.28,4,365,2/6/18,t,1.0,1,2,Real Bed,1046,1,0,60,t,f,moderate,f,f,2
+7682,2096,Recoleta,Hotel room,1,31,3/15/20,0.55,34,355,11/15/11,t,1.0,1,1,Real Bed,0,1,1395,752,t,f,flexible,f,f,3
+7881,5340,Núñez,Entire home/apt,2,32,1/2/20,1.11,2,175,6/27/17,t,1.0,1,3,Real Bed,380,3,500,1125,t,f,flexible,f,f,3
+9639,6133,Recoleta,Entire home/apt,2,21,7/14/19,0.89,1,0,5/14/18,f,3.0,3,5,Real Bed,1500,1,0,90,t,f,moderate,f,f,4
+8590,2810,San Nicolás,Entire home/apt,1,35,4/30/20,0.68,1,362,10/14/15,f,1.0,0,1,Real Bed,1052,1,0,1125,f,f,flexible,f,f,1
+7643,11735,Belgrano,Entire home/apt,3,13,3/15/20,1.44,2,147,9/4/19,t,2.0,2,4,Real Bed,3492,1,0,1125,t,f,strict_14_with_grace_period,f,f,4
+8257,7382,San Telmo,Entire home/apt,1,9,2/25/20,0.51,1,0,11/7/16,f,1.0,0,1,Real Bed,1046,1,0,20,f,f,strict_14_with_grace_period,f,f,4
+8029,8311,San Telmo,Entire home/apt,15,35,3/25/20,1.98,1,0,12/14/18,t,1.0,2,3,Real Bed,800,1,0,1125,f,f,moderate,f,f,2
+8153,7878,Palermo,Entire home/apt,3,11,3/4/20,0.58,1,0,6/1/16,t,2.0,3,5,Real Bed,3500,1,0,1125,f,f,flexible,f,f,4
+8093,5658,San Telmo,Private room,7,2,5/15/19,0.08,22,360,12/10/12,t,2.0,1,2,Real Bed,1050,1,0,1125,t,f,flexible,f,f,1
+6592,11628,Caballito,Entire home/apt,3,12,3/14/20,1.32,1,83,8/27/19,t,1.0,1,2,Real Bed,560,1,490,15,t,f,strict_14_with_grace_period,f,f,1
