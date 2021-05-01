@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Full Width Pics - Start Bootstrap Template</title>
+        <title>Report</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename = 'favicon.ico')}}" />
         <!-- Core theme CSS (includes Bootstrap)-->
@@ -28,30 +28,46 @@
          <section class="py-5">
             <div class="container">
                 <h1>Result</h1>
-                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, suscipit, rerum quos facilis repellat architecto commodi officia atque nemo facere eum non illo voluptatem quae delectus odit vel itaque amet.</p>
-                 <!-- <div class="card shadow mb-4">
-		        <div class="card-header py-3">
-		            <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
-		        </div>
-		        <div class="card-body"> -->
 		            <div class="table-responsive">
 		                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
 		                    <thead>
 		                        <tr>
-		                            <th>Group1</th>
-		                            <th>Group2</th>
-		                            <th>Group3</th>
-		                            <th>Group4</th>
+                                    <th></th>
+                                    <th>True Label: VeryCheap</th>
+		                            <th>True Label: Cheap</th>
+		                            <th>True Label: Expensive</th>
+		                            <th>True Label: Very Expensive</th>
 		                        </tr>
 		                    </thead>
 		                    <tbody>
 		                        <tr>
-		                            <td>Tiger Nixon</td>
-		                            <td>System Architect</td>
-		                            <td>Edinburgh</td>
-		                            <td>61</td>
+		                            <td><b>Predict Label: Very Cheap</b></td>
+		                            <td>39</td>
+		                            <td>1</td>
+		                            <td>8</td>
+                                    <td>37</td>
 		                        </tr>
+                                <tr>
+                                    <td><b>Predict Label: Cheap</b></td>
+                                    <td>11</td>
+                                    <td>4</td>
+                                    <td>9</td>
+                                    <td>55</td>
+                                </tr>
+                                <tr>
+                                    <td><b>Predict Label: Expensive</b></td>
+                                    <td>6</td>
+                                    <td>2</td>
+                                    <td>6</td>
+                                    <td>58</td>
+                                </tr>
+                                <tr>
+                                    <td><b>Predict Label: Very Expensive</b></td>
+                                    <td>2</td>
+                                    <td>1</td>
+                                    <td>3</td>
+                                    <td>58</td>
+                                </tr>
 		                    </tbody>
 		                </table>
 		            <!-- </div>
