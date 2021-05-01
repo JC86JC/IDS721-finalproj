@@ -1,4 +1,4 @@
-# IDS721 Final Project-Airbnb housing price prediction model
+# Airbnb housing price prediction model on the cloud
 
 ## Introduction
 Airbnb is one of the biggest vacation rental online marketplace company in United States. When renting for a house/apartment, people usually care a lot about the price.  In this project, our group tried to predict the price level of Airbnb houses using random forest model, and then display the test result in a flask app using Google Cloud Platform. 
@@ -15,6 +15,13 @@ We got our dataset from this [Kaggle competition](https://www.kaggle.com/c/duke-
 - Model: Random Forest Classifier
 - Platform: Flask + Google App Engine
 - Elastic Scale-Up Performance Verification: Locust load test with 1000 users.
+
+
+## Sample locust test result
+
+![image](https://user-images.githubusercontent.com/54278431/116767832-9f0bba80-aa00-11eb-804d-2d1fc20e1a32.png)
+
+
 
 ## Install & Use on GCP
 - git clone
